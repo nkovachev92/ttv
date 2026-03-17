@@ -145,6 +145,12 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="explore.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatexplorer.png" group-title="Документални",Viasat Explorer
 http://78.108.251.7/ViasatExplorer_HD/mono.m3u8
+#EXTINF:-1 tvg-id="history.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasathistory.png" group-title="Документални",Viasat History
+http://78.108.251.7/ViasatHistory_HD/mono.m3u8
+#EXTINF:-1 tvg-id="nature.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatnature.png" group-title="Документални",Viasat Nature
+http://78.108.251.7/ViasatNature_HD/mono.m3u8
+#EXTINF:-1 tvg-id="amc.bg" tvg-logo="https://epg.cloudns.org/tv/logos/amc.png" group-title="Филми и сериали",AMC
+http://78.108.251.7/amc/mono.m3u8
 #EXTINF:-1 tvg-id="axn.bg" tvg-logo="https://epg.cloudns.org/tv/logos/axn.png" group-title="Филми и сериали",AXN
 http://78.108.251.7/Axn/mono.m3u8
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="Филми и сериали",bTV Action
@@ -157,16 +163,18 @@ http://87.120.179.187:8000/play/a00t
 http://bpl.online24.pm/play/6812/28E4026E1C8230F/video.m3u8
 #EXTINF:-1 tvg-id="cinemax1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax.png" group-title="Филми и сериали",Cinemax
 http://78.108.251.7/Cinemax_HD/mono.m3u8
+#EXTINF:-1 tvg-id="cinemax2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax2.png" group-title="Филми и сериали",Cinemax 2
+http://78.108.251.7/Cinemax2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="Филми и сериали",Diema
 http://78.108.251.7/Diema/mono.m3u8
 #EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="Филми и сериали",Diema Family
 http://78.108.251.7/DiemaFamily/mono.m3u8
 #EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="Филми и сериали",HBO
-http://bde.online24.pm/play/6896/E0B9D2508CF5B92/video.m3u8
+http://78.108.251.7/HBO_HD/mono.m3u8
 #EXTINF:-1 tvg-id="hbo2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="Филми и сериали",HBO 2
 http://78.108.251.7/HBO2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="hbo3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo3.png" group-title="Филми и сериали",HBO 3
-http://bde.online24.pm/play/6898/E0B9D2508CF5B92/video.m3u8
+http://78.108.251.7/HBO3_HD/mono.m3u8
 #EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="Филми и сериали",Kino Nova
 http://78.108.251.7/KinoNova/mono.m3u8
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
