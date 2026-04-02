@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://is.gd/tvbgepg,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+#EXTM3U x-tvg-url="http://is.gd/tvbgepg"
 #EXTINF:-1 tvg-id="cartoonnetwork.tv" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonnetwork.png" group-title="Детски предавания",Cartoon Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonito.png" group-title="Детски предавания",Cartoonito
