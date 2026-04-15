@@ -146,7 +146,7 @@ http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2779.png" group-title="XXX",Penthouse Reality TV
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="private.tv" tvg-logo="http://epg.it999.ru/img/2321.png" group-title="XXX",Private HD
-http://169.150.223.25/Private/index.m3u8
+http://78.130.250.2:8023/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2320.png" group-title="XXX",Redlight HD
 http://78.130.250.2:8023/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
@@ -196,7 +196,7 @@ http://78.108.251.7/bTVAction_HD/mono.m3u8
 #EXTINF:-1 tvg-id="btvcinema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcinema.png" group-title="Филми и сериали",bTV Cinema HD
 http://78.108.251.7/bTVCinema_HD/mono.m3u8
 #EXTINF:-1 tvg-id="btvcomedy.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcomedy.png" group-title="Филми и сериали",bTV Comedy HD
-http://bde.online24.pm/play/6812/F6E1DD42544DD10/video.m3u8
+http://87.120.179.187:8000/play/a00t
 #EXTINF:-1 tvg-id="cinemax1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax.png" group-title="Филми и сериали",Cinemax
 http://78.108.251.7/Cinemax_HD/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax2.png" group-title="Филми и сериали",Cinemax 2
