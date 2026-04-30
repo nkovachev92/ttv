@@ -181,8 +181,6 @@ http://78.108.251.7/ViasatExplorer_HD/mono.m3u8
 http://78.108.251.7/ViasatHistory_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nature.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatnature.png" group-title="Документални",Viasat Nature
 http://78.108.251.7/ViasatNature_HD/mono.m3u8
-#EXTINF:-1 tvg-id="amc.bg" tvg-logo="https://epg.cloudns.org/tv/logos/amc.png" group-title="Филми и сериали",AMC
-http://78.108.251.7/amc/mono.m3u8
 #EXTINF:-1 tvg-id="axn.bg" tvg-logo="https://epg.cloudns.org/tv/logos/axn.png" group-title="Филми и сериали",AXN
 http://78.108.251.7/Axn/mono.m3u8
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="Филми и сериали",bTV Action
