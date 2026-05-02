@@ -186,9 +186,9 @@ http://213.169.39.30:5037
 #EXTINF:-1 tvg-id="cinestaraction.hr" tvg-logo="https://epg.cloudns.org/tv/logos/cinestartvat.png" group-title="Филми и сериали",CineStar A & T
 http://213.169.39.30:5046
 #EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="Филми и сериали",Diema
-http://78.108.251.7/Diema/mono.m3u8
+http://213.169.39.30:5096
 #EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="Филми и сериали",Diema Family
-http://78.108.251.7/DiemaFamily/mono.m3u8
+http://213.169.39.30:5109
 #EXTINF:-1 tvg-id="filmbox.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmbox.png" group-title="Филми и сериали",FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="Филми и сериали",HBO
@@ -198,7 +198,7 @@ http://78.108.251.7/HBO2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="hbo3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo3.png" group-title="Филми и сериали",HBO 3
 http://78.108.251.7/HBO3_HD/mono.m3u8
 #EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="Филми и сериали",Kino Nova
-http://78.108.251.7/KinoNova/mono.m3u8
+http://213.169.39.30:5083
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
 http://213.169.39.30:5035
 #EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
