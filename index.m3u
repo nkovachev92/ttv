@@ -235,7 +235,7 @@ http://213.169.39.30:5009
 http://213.169.39.30:5214
 #EXTINF:-1 tvg-id="HBO.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="Филми и сериали",HBO
 http://78.108.251.7/HBO_HD/mono.m3u8
-#EXTINF:-1 tvg-id="HBO2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="Филми и сериали",HBO 2
+#EXTINF:-1 tvg-id="HBOComedy.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="Филми и сериали",HBO 2
 http://78.108.251.7/HBO2_HD/mono.m3u8
 #EXTINF:-1 tvg-id="HBO3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo3.png" group-title="Филми и сериали",HBO 3
 http://78.108.251.7/HBO3_HD/mono.m3u8
