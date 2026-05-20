@@ -117,7 +117,6 @@ https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=2ffabc00-ecef-4f1a-ba13-e0ec9302b395&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="TV Shows",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=325284c6-abe7-42df-884f-4b4c0758d9f3&ads._fw_vcid2=512116:325284c6-abe7-42df-884f-4b4c0758d9f3&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=
-
 #EXTINF:-1 tvg-id="302d8d86738c0ab83d0ca3a5e2df3492" channel-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="TV Shows",Xena
 https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
 #EXTINF:-1 tvg-id="94759dbd58a65682bcc573932f725f46" channel-id="94759dbd58a65682bcc573932f725f46" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="Vevo Music",Vevo 2K
@@ -163,19 +162,18 @@ http://169.150.223.25/BangU/index.m3u8
 #EXTINF:-1 tvg-id="brazzers.eu" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2324.png" group-title="XXX",Dorcel TV
-http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+http://213.169.39.30:5020
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3170.png" group-title="XXX",Extasy HD
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2322.png" group-title="XXX",Hustler HD
-http://78.130.250.2:8023/play/a03f/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV
 http:/212.102.38.45/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2777.png" group-title="XXX",Penthouse Gold
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2779.png" group-title="XXX",Penthouse Reality TV
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="private.tv" tvg-logo="http://epg.it999.ru/img/2321.png" group-title="XXX",Private HD
-http://78.130.250.2:8023/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="private.tv" tvg-logo="http://epg.it999.ru/img/2321.png" group-title="XXX",Private
+http://213.169.39.30:5036
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2320.png" group-title="XXX",Redlight HD
 http://78.130.250.2:8023/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
@@ -200,71 +198,3 @@ http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32398
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32292
 #EXTINF:-1 group-title="XXX 2",Public Agent (2)
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32421
-#EXTINF:-1 group-title="XXX 3",Alba XXX HD 1
-http://bgdc.live:25461/tomcoutant/9758657/204311
-#EXTINF:-1 group-title="XXX 3",Alba XXX HD 2
-http://bgdc.live:25461/tomcoutant/9758657/204312
-#EXTINF:-1 group-title="XXX 3",EroLuxe Babysitter HD
-http://bgdc.live:25461/tomcoutant/9758657/204232
-#EXTINF:-1 group-title="XXX 3",EroLuxe Creampie HD
-http://bgdc.live:25461/tomcoutant/9758657/204237
-#EXTINF:-1 group-title="XXX 3",EroLuxe Schoolgirl HD
-http://bgdc.live:25461/tomcoutant/9758657/204246
-#EXTINF:-1 group-title="XXX 3",Evolved Fights
-http://bgdc.live:25461/tomcoutant/9758657/204337
-#EXTINF:-1 group-title="XXX 3",Fake Taxi
-http://bgdc.live:25461/tomcoutant/9758657/204339
-#EXTINF:-1 group-title="XXX 3",Glory Hole
-http://bgdc.live:25461/tomcoutant/9758657/204343
-#EXTINF:-1 group-title="XXX 3",Mia Khalifa
-http://bgdc.live:25461/tomcoutant/9758657/204348
-#EXTINF:-1 group-title="XXX 3",My Pervy Family
-http://bgdc.live:25461/tomcoutant/9758657/204350
-#EXTINF:-1 group-title="XXX 3",Naughty America
-http://bgdc.live:25461/tomcoutant/9758657/204351
-#EXTINF:-1 group-title="XXX 3",Princess Cum
-http://bgdc.live:25461/tomcoutant/9758657/204365
-#EXTINF:-1 group-title="XXX 3",Real Girls Gone Bad
-http://bgdc.live:25461/tomcoutant/9758657/204367
-#EXTINF:-1 group-title="XXX 3",Venus
-http://bgdc.live:25461/tomcoutant/9758657/204301
-#EXTINF:-1 group-title="XXX 4",21 Naturals
-http://s.only4.tv/8656/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Babes
-http://s.only4.tv/8658/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Fake Taxi
-http://s.only4.tv/8673/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Family Strokes
-http://s.only4.tv/8674/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Family Swap
-http://s.only4.tv/8675/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Massage Rooms
-http://s.only4.tv/8684/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Moms Teach Sex
-http://s.only4.tv/8685/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",My Pervy Family
-http://s.only4.tv/8686/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",MYLF
-http://s.only4.tv/8678/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Naughty America
-http://s.only4.tv/8687/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",PervMom
-http://s.only4.tv/8691/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",PornFidelity
-http://s.only4.tv/8693/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Property Sex
-http://s.only4.tv/8695/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Public Agent
-http://s.only4.tv/8696/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Pure Taboo
-http://s.only4.tv/8697/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",SexMex
-http://s.only4.tv/8698/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Shoplyfter MYLF (1)
-http://s.only4.tv/8700/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Shoplyfter MYLF (2)
-http://s.only4.tv/8701/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",TeenFidelity
-http://s.only4.tv/8703/index.m3u8?token=YDdExcfwrK
-#EXTINF:-1 group-title="XXX 4",Tiny4K
-http://s.only4.tv/8704/index.m3u8?token=YDdExcfwrK
