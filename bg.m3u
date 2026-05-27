@@ -55,8 +55,6 @@ http://213.169.39.30:5238
 http://78.108.251.7/Cinemax_HD/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax2.png" group-title="Филми и сериали",Cinemax 2
 http://78.108.251.7/Cinemax2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="cinestar.hr" tvg-logo="https://epg.cloudns.org/tv/logos/cinestartv.png" group-title="Филми и сериали",CineStar 1
-http://213.169.39.30:5037
 #EXTINF:-1 tvg-id="cinestaraction.hr" tvg-logo="https://epg.cloudns.org/tv/logos/cinestartvat.png" group-title="Филми и сериали",CineStar A & T
 http://213.169.39.30:5046
 #EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="Филми и сериали",Diema
