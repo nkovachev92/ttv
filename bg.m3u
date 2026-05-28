@@ -62,11 +62,11 @@ http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="filmboxextra.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmboxtrahd.png" group-title="Филми и сериали",FilmBox Extra
 http://213.169.39.30:5214
 #EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="Филми и сериали",HBO
-http://78.108.251.7/HBO_HD/index.m3u8
+http://212.70.131.37:8000/play/a05h
 #EXTINF:-1 tvg-id="hbo2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="Филми и сериали",HBO 2
-http://78.108.251.7/HBO2_HD/index.m3u8
+http://212.70.131.37:8000/play/a05i
 #EXTINF:-1 tvg-id="hbo3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo3.png" group-title="Филми и сериали",HBO 3
-http://78.108.251.7/HBO3_HD/index.m3u8
+http://212.70.131.37:8000/play/a05y
 #EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="Филми и сериали",Kino Nova
 http://213.169.39.30:5083
 #EXTINF:-1 tvg-id="moviestar.bg" tvg-logo="https://epg.cloudns.org/tv/logos/moviestar.png" group-title="Филми и сериали",MovieSTAR
