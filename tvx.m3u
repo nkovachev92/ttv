@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+#EXTM3U x-tvg-url="https://is.gd/fullepg,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
 #EXTINF:-1 tvg-id="0abef49cfd6759b18f2ce64290cbdda3" channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="Movies",FilmRise Action
 https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
 #EXTINF:-1 tvg-id="d6f71998860459eca1bed73db5988330" channel-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="Movies",FilmRise Free Movies
@@ -141,71 +141,23 @@ http://213.169.39.30:5036
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3233.png" group-title="XXX",Vivid TV Europe
 http://213.169.39.30:5269
-#EXTINF:-1 group-title="XXX 2",Dancing Bear (1)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12144/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Dancing Bear (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/12144/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Evolved Fights (1)
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/6200/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Evolved Fights (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6200/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Evolved Fights (3)
 http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6200/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Exotic 4K (1)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12107/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Exotic 4K (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/12107/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (1)
-http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/6202/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6202/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (3)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6202/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (4)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32295
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (5)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32410
 #EXTINF:-1 group-title="XXX 2",Family Swap (1)
 http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12155/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Family Swap (2)
+http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/12155/index.m3u8
+#EXTINF:-1 group-title="XXX 2",Family Swap (3)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/12155/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Mia Khalifa (1)
+#EXTINF:-1 group-title="XXX 2",Mia Khalifa
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32297
-#EXTINF:-1 group-title="XXX 2",Mia Khalifa (2)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32418
 #EXTINF:-1 group-title="XXX 2",Moms Teach Sex
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32396
-#EXTINF:-1 group-title="XXX 2",My Family Pies
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32398
-#EXTINF:-1 group-title="XXX 2",My Pervy Family (1)
+#EXTINF:-1 group-title="XXX 2",My Pervy Family
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32316
-#EXTINF:-1 group-title="XXX 2",My Pervy Family (2)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32419
-#EXTINF:-1 group-title="XXX 2",MYLF.com (1)
-http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/6236/index.m3u8
-#EXTINF:-1 group-title="XXX 2",MYLF.com (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6236/index.m3u8
-#EXTINF:-1 group-title="XXX 2",MYLF.com (3)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6236/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Naughty America (1)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12122/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Naughty America (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/12122/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Naughty America (3)
+#EXTINF:-1 group-title="XXX 2",Naughty America
 http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6237/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Public Agent (1)
-http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/6246/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Public Agent (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6246/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Public Agent (3)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6246/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Public Agent (4)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32292
-#EXTINF:-1 group-title="XXX 2",Public Agent (5)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32421
-#EXTINF:-1 group-title="XXX 2",Vixen.com (1)
-http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/6265/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Vixen.com (2)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6265/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Vixen.com (3)
-http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6265/index.m3u8

@@ -193,13 +193,9 @@ http://213.169.39.30:5231
 http://78.108.251.7/Axn/mono.m3u8
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="Филми и сериали",bTV Action
 http://213.169.39.30:5212
-#EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="Филми и сериали",bTV Action HD
-http://78.108.251.7/bTVAction_HD/index.m3u8
 #EXTINF:-1 tvg-id="btvcinema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcinema.png" group-title="Филми и сериали",bTV Cinema
 http://213.169.39.30:5111
-#EXTINF:-1 tvg-id="btvcinema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcinema.png" group-title="Филми и сериали",bTV Cinema HD
-http://78.108.251.7/bTVCinema_HD/index.m3u8
-#EXTINF:-1 tvg-id="btvcomedy.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcomedy.png" group-title="Филми и сериали",bTV Comedy HD
+#EXTINF:-1 tvg-id="btvcomedy.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcomedy.png" group-title="Филми и сериали",bTV Comedy
 http://s.only4.tv/9781/index.m3u8?token=YDdExcfwrK
 #EXTINF:-1 tvg-id="btvstory.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvstory.png" group-title="Филми и сериали",bTV Story
 http://213.169.39.30:5049
@@ -217,8 +213,6 @@ http://213.169.39.30:5046
 http://213.169.39.30:5096
 #EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="Филми и сериали",Diema Family
 http://78.108.251.7/DiemaFamily/mono.m3u8
-#EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="Филми и сериали",Diema HD
-http://78.108.251.7/Diema/mono.m3u8
 #EXTINF:-1 tvg-id="filmbox.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmbox.png" group-title="Филми и сериали",FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="filmboxextra.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmboxtrahd.png" group-title="Филми и сериали",FilmBox Extra
@@ -251,20 +245,18 @@ http://78.108.251.7/TV1000/mono.m3u8
 http://213.169.39.30:5201
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="Музикални канали",Balkanika
 http://213.169.39.30:5047
-#EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="Музикални канали",Balkanika HD
-http://78.108.251.7/Balkanika/mono.m3u8
 #EXTINF:-1 tvg-id="bgmusic.tv" tvg-logo="https://epg.cloudns.org/tv/logos/bgmusicchannel.png" group-title="Музикални канали",BG Music Channel
 http://213.169.39.30:5234
 #EXTINF:-1 tvg-id="boxtv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/boxtv.png" group-title="Музикални канали",Box TV
 http://213.169.39.30:5236
+#EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="Музикални канали",City TV
+http://s.only4.tv/9700/index.m3u8?token=YDdExcfwrK
 #EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/dmsat.png" group-title="Музикални канали",DM Sat
 http://78.108.251.7/DMSat/mono.m3u8
 #EXTINF:-1 tvg-id="dstv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/dstv.png" group-title="Музикални канали",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="Музикални канали",Fen TV
 http://213.169.39.30:5043
-#EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="Музикални канали",Fen TV HD
-http://78.108.251.7/FenTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/hitmix.png" group-title="Музикални канали",Hit Mix Music
 http://213.169.39.30:5253
 #EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="Музикални канали",Magic TV
