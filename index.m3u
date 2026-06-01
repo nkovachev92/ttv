@@ -170,11 +170,9 @@ http://78.108.251.7/Axn/mono.m3u8
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="Филми и сериали",bTV Action
 http://213.169.39.30:5212
 #EXTINF:-1 tvg-id="btvcinema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcinema.png" group-title="Филми и сериали",bTV Cinema
-http://213.169.39.30:5111
+http://78.108.251.7/bTVCinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="btvcomedy.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvcomedy.png" group-title="Филми и сериали",bTV Comedy
 http://213.169.39.30:5117
-#EXTINF:-1 tvg-id="btvstory.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvstory.png" group-title="Филми и сериали",bTV Story
-http://213.169.39.30:5049
 #EXTINF:-1 tvg-id="cinemania.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemania.png" group-title="Филми и сериали",CINEMANIA
 http://213.169.39.30:5238
 #EXTINF:-1 tvg-id="cinemax1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cinemax.png" group-title="Филми и сериали",Cinemax
@@ -187,12 +185,6 @@ http://213.169.39.30:5046
 http://213.169.39.30:5096
 #EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="Филми и сериали",Diema Family
 http://78.108.251.7/DiemaFamily/mono.m3u8
-#EXTINF:-1 tvg-id="filmbox.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmbox.png" group-title="Филми и сериали",FilmBox
-http://213.169.39.30:5009
-#EXTINF:-1 tvg-id="filmboxextra.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmboxtrahd.png" group-title="Филми и сериали",FilmBox Extra
-http://213.169.39.30:5214
-#EXTINF:-1 tvg-id="filmboxstars.com" tvg-logo="https://epg.cloudns.org/tv/logos/filmboxstars.png" group-title="Филми и сериали",FilmBox Stars
-http://213.169.39.30:5250
 #EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="Филми и сериали",HBO
 http://212.70.131.37:8000/play/a05h
 #EXTINF:-1 tvg-id="hbo2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="Филми и сериали",HBO 2
@@ -209,8 +201,6 @@ http://213.169.39.30:5200
 http://213.169.39.30:5035
 #EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
 http://213.169.39.30:5110
-#EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
-http://213.169.39.30:5107
 #EXTINF:-1 tvg-id="epicdrama.bg" tvg-logo="https://epg.cloudns.org/tv/logos/epicdrama.png" group-title="Филми и сериали",Viasat Epic Drama
 http://213.169.39.30:5247
 #EXTINF:-1 tvg-id="kino.viasat.bg"" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="Филми и сериали",Viasat Kino (TV1000)
@@ -223,14 +213,14 @@ http://213.169.39.30:5047
 http://213.169.39.30:5234
 #EXTINF:-1 tvg-id="boxtv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/boxtv.png" group-title="Музикални канали",Box TV
 http://213.169.39.30:5236
+#EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="Музикални канали",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/dmsat.png" group-title="Музикални канали",DM Sat
 http://78.108.251.7/DMSat/mono.m3u8
 #EXTINF:-1 tvg-id="dstv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/dstv.png" group-title="Музикални канали",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="Музикални канали",Fen TV
 http://213.169.39.30:5043
-#EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/hitmix.png" group-title="Музикални канали",Hit Mix Music
-http://213.169.39.30:5253
 #EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="Музикални канали",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="Музикални канали",Planeta HD
