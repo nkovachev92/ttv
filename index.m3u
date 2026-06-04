@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://is.gd/fullepg,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+#EXTM3U x-tvg-url="https://is.gd/fullepg,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
 #EXTINF:-1 tvg-id="0abef49cfd6759b18f2ce64290cbdda3" channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="Movies",FilmRise Action
 https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
 #EXTINF:-1 tvg-id="d6f71998860459eca1bed73db5988330" channel-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="Movies",FilmRise Free Movies
@@ -29,6 +29,44 @@ https://top-movies-rakuten-tv-ie.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0c148f15-51c8-4062-8655-eeb642244184&ads._fw_vcid2=512116:0c148f15-51c8-4062-8655-eeb642244184&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Movies",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=bf4ea71e-0244-4949-ae37-1db855b4494d&ads._fw_vcid2=512116:bf4ea71e-0244-4949-ae37-1db855b4494d&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
+#EXTINF:-1 tvg-id="6850335b5965a2fd49f7e36d" channel-id="6850335b5965a2fd49f7e36d" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Pluto TV",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+#EXTINF:-1 tvg-id="62bdb7f0db2eb30007376d4d" channel-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Pluto TV",Cheers
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:-1 tvg-id="691e0561e32eb094b835c418" channel-id="691e0561e32eb094b835c418" tvg-logo="https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png" group-title="Pluto TV",Fresh Movies by VVS Films
+https://jmp2.uk/plu-691e0561e32eb094b835c418.m3u8
+#EXTINF:-1 tvg-id="66a105f4a79dea0008aa5e0f" channel-id="66a105f4a79dea0008aa5e0f" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="Pluto TV",JAG
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
+#EXTINF:-1 tvg-id="66bb3212fe11e5000883ea6b" channel-id="66bb3212fe11e5000883ea6b" tvg-logo="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png" group-title="Pluto TV",Married... with Children
+https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
+#EXTINF:-1 tvg-id="62e91c3add66e00007eeb24c" channel-id="62e91c3add66e00007eeb24c" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Pluto TV",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
+#EXTINF:-1 tvg-id="62f4f5de1c100100075665ef" channel-id="62f4f5de1c100100075665ef" tvg-logo="https://images.pluto.tv/channels/62f4f5de1c100100075665ef/colorLogoPNG.png" group-title="Pluto TV",NCIS
+https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+#EXTINF:-1 tvg-id="66a106c8a79dea0008aa5ef3" channel-id="66a106c8a79dea0008aa5ef3" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="Pluto TV",NCIS: Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+#EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" channel-id="62ea3c2e4823db00072788ed" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action Movies
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-id="62e92178946c8000079a3160" channel-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
+#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" channel-id="62ea3d24b8e02600071fa296" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-id="62e92708a7ce600007b2676a" channel-id="62e92708a7ce600007b2676a" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Crime Drama
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+#EXTINF:-1 tvg-id="62bdb0bcd707b9000739d2e5" channel-id="62bdb0bcd707b9000739d2e5" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama Movies
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+#EXTINF:-1 tvg-id="62ea3f8a38acc80007072d26" channel-id="62ea3f8a38acc80007072d26" tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Horror
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 tvg-id="69a9ae4d3bd16a4ed04240d7" channel-id="69a9ae4d3bd16a4ed04240d7" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" group-title="Pluto TV",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:-1 tvg-id="66166cb1307fa30008f275e7" channel-id="66166cb1307fa30008f275e7" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-id="62fb6cd97b90e60007bc318a" channel-id="62fb6cd97b90e60007bc318a" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" group-title="Pluto TV",Romance 365
+https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
+#EXTINF:-1 tvg-id="691b023a7613e09a8b209539" channel-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Pluto TV",The X-Files
+https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
+#EXTINF:-1 tvg-id="62fb6da41afad500077e9178" channel-id="62fb6da41afad500077e9178" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Pluto TV",Thrillers 365
+https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
 #EXTINF:-1 tvg-id="USBD35000180U" channel-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="Stingray Music",Stingray Classic Rock
 https://jmp2.uk/stvp-USBD35000180U
 #EXTINF:-1 tvg-id="USBD3500011J3" channel-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250714T223117SQUARE.png" group-title="Stingray Music",Stingray Easy Listening
