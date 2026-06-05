@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/rakuten-uk-epg/refs/heads/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
 #EXTINF:-1 tvg-id="0abef49cfd6759b18f2ce64290cbdda3" channel-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001245461_RokuChannel_FilmRiseAction_HUD_Logo_260x147.png" group-title="Movies",FilmRise Action
 https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
 #EXTINF:-1 tvg-id="d6f71998860459eca1bed73db5988330" channel-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="Movies",FilmRise Free Movies
@@ -183,37 +183,21 @@ http://169.150.223.25/Private/index.m3u8
 http://81.15.109.89:8001/play/Redlight
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
 https://de1.dstv.cx/RealityKings/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Czech Bitch (1)
-https://ma.vimepro2.com/fd04445537/5a0a0e952930/629141
-#EXTINF:-1 group-title="XXX 2",Czech Bitch (2)
-https://ma.vimepro2.com/fd04445537/5a0a0e952930/629280
-#EXTINF:-1 group-title="XXX 2",Czech Bitch (3)
-https://ma.vimepro2.com/fd04445537/5a0a0e952930/629320
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (1)
+#EXTINF:-1 group-title="XXX 2",Fake Taxi
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32295
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (2)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32410
-#EXTINF:-1 group-title="XXX 2",Fake Taxi (3)
-https://ma.vimepro2.com/fd04445537/5a0a0e952930/629119
 #EXTINF:-1 group-title="XXX 2",Family Swap (1)
 http://patrak.otttv.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12155/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Family Swap (2)
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/12155/index.m3u8
 #EXTINF:-1 group-title="XXX 2",Family Swap (3)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/12155/index.m3u8
-#EXTINF:-1 group-title="XXX 2",Hustler TV
-https://ma.vimepro2.com/fd04445537/5a0a0e952930/629277
-#EXTINF:-1 group-title="XXX 2",Mia Khalifa (1)
+#EXTINF:-1 group-title="XXX 2",Mia Khalifa
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32297
-#EXTINF:-1 group-title="XXX 2",Mia Khalifa (2)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32418
 #EXTINF:-1 group-title="XXX 2",Moms Teach Sex
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32396
 #EXTINF:-1 group-title="XXX 2",My Family Pies
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32398
-#EXTINF:-1 group-title="XXX 2",My Pervy Family (1)
+#EXTINF:-1 group-title="XXX 2",My Pervy Family
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32316
-#EXTINF:-1 group-title="XXX 2",My Pervy Family (2)
-http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32419
 #EXTINF:-1 group-title="XXX 2",Public Agent
 http://kb87.eshofrcep.top:8080/es4371749827909276/ff73672f6a41/32292
