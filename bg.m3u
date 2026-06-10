@@ -77,12 +77,6 @@ http://78.108.251.7/KinoNova/index.m3u8
 http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia.bg" tvg-logo="https://epg.cloudns.org/tv/logos/nostalgia.png" group-title="Филми и сериали",Nostalgia
 http://212.70.131.37:8000/play/a05w
-#EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
-http://87.120.179.187:8000/play/a013
-#EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
-http://87.120.179.187:8000/play/a00r
-#EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
-http://87.120.179.187:8000/play/a00q
 #EXTINF:-1 tvg-id="epicdrama.bg" tvg-logo="https://epg.cloudns.org/tv/logos/epicdrama.png" group-title="Филми и сериали",Viasat Epic Drama
 http://212.70.131.37:8000/play/a057
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="Филми и сериали",Viasat Kino (TV1000)
@@ -97,8 +91,6 @@ http://78.108.251.7/DMSat/mono.m3u8
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="Музикални канали",Fen TV
 http://78.108.251.7/FenTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/hitmix.png" group-title="Музикални канали",Hit Mix Music
-http://87.120.179.187:8000/play/a001
 #EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="Музикални канали",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="Музикални канали",Planeta HD
@@ -112,7 +104,7 @@ http://212.70.131.37:8000/play/a03h
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="За бавни мрежи",Balkanika
 http://212.70.131.37:8000/play/a04z
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="За бавни мрежи",BNT 1
-http://87.120.179.187:8000/play/a007
+http://62.176.112.19:8008/play/a046
 #EXTINF:-1 tvg-id="bnt2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt2.png" group-title="За бавни мрежи",BNT 2
 http://212.70.131.37:8000/play/a052
 #EXTINF:-1 tvg-id="bnt3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt3.png" group-title="За бавни мрежи",BNT 3
