@@ -75,8 +75,6 @@ https://jmp2.uk/stvp-USBD3500011J3
 https://jmp2.uk/stvp-USBD3500008IJ
 #EXTINF:-1 tvg-id="USBD3500022DN" channel-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png" group-title="Stingray Music",Stingray Greatest Hits
 https://jmp2.uk/stvp-USBD3500022DN
-#EXTINF:-1 tvg-id="USBD3500010MT" channel-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20250630T232455SQUARE.png" group-title="Stingray Music",Stingray Hip Hop
-https://jmp2.uk/stvp-USBD3500010MT
 #EXTINF:-1 tvg-id="USBD3300021KV" channel-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png" group-title="Stingray Music",Stingray Hot Country
 https://jmp2.uk/stvp-USBD3300021KV
 #EXTINF:-1 tvg-id="USBD35000149S" channel-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20250630T232441SQUARE.png" group-title="Stingray Music",Stingray Nothin' But 90s
@@ -129,8 +127,6 @@ https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8
 https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 #EXTINF:-1 tvg-id="1db9c603bb4e5d87b015f9963da1093e" channel-id="1db9c603bb4e5d87b015f9963da1093e" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1db9c603bb4e5d87b015f9963da1093e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113404058_Info_HUD_Logo_260X147_center_%25284%2529.png" group-title="Vevo Music",Vevo Country
 https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
-#EXTINF:-1 tvg-id="8dc44c8fdea45f039c68f75bda233850" channel-id="8dc44c8fdea45f039c68f75bda233850" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8dc44c8fdea45f039c68f75bda233850/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113465461_Info_HUD_Logo_260X147_center_%25283%2529.png" group-title="Vevo Music",Vevo Hip-Hop
-https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8
 #EXTINF:-1 tvg-id="0d5283959d3a59bf87411e7077fd9e58" channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" group-title="Vevo Music",Vevo Latino
 https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
 #EXTINF:-1 tvg-id="e50a8f06d3245c95a4e250dc5c33c2be" channel-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e50a8f06d3245c95a4e250dc5c33c2be/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113520589_Info_HUD_Logo_260X147_center_%252814%2529.png" group-title="Vevo Music",Vevo Pop
