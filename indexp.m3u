@@ -257,10 +257,6 @@ http://78.108.251.7/KinoNova/index.m3u8
 http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia.bg" tvg-logo="https://epg.cloudns.org/tv/logos/nostalgia.png" group-title="Филми и сериали",Nostalgia
 http://212.70.131.37:8000/play/a05w
-#EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
-http://87.120.179.187:8000/play/a013
-#EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
-http://87.120.179.187:8000/play/a00q
 #EXTINF:-1 tvg-id="epicdrama.bg" tvg-logo="https://epg.cloudns.org/tv/logos/epicdrama.png" group-title="Филми и сериали",Viasat Epic Drama
 http://212.70.131.37:8000/play/a057
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="Филми и сериали",Viasat Kino (TV1000)
