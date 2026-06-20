@@ -89,8 +89,6 @@ http://78.108.251.7/DMSat/mono.m3u8
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="Музикални канали",Fen TV
 http://78.108.251.7/FenTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.cloudns.org/tv/logos/hitmix.png" group-title="Музикални канали",Hit Mix Music
-http://87.120.179.187:8000/play/a001
 #EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="Музикални канали",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="Музикални канали",Planeta HD
