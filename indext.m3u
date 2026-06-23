@@ -233,14 +233,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://5.57.74.130:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2777.png" group-title="XXX",Penthouse Gold
-http://162.19.246.113/XXX4/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2776.png" group-title="XXX",Penthouse Passion
-http://162.19.246.113/XXX3/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2779.png" group-title="XXX",Penthouse Reality TV
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2321.png" group-title="XXX",Private TV
-http://162.19.246.113/XXX2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="XXX 2",Family Swap
