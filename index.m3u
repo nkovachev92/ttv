@@ -331,14 +331,16 @@ http://62.176.112.19:8008/play/a04n
 http://62.176.112.19:8008/play/a04i
 #EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="За бавни мрежи",City TV
 http://62.176.112.19:8008/play/a0dy
-#EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="За бавни мрежи",Diema
-http://87.120.179.187:8000/play/a00h
-#EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="За бавни мрежи",Diema Family
-http://87.120.179.187:8000/play/a00i
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
 http://62.176.112.19:8008/play/a044
-#EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="За бавни мрежи",Kino Nova
-http://87.120.179.187:8000/play/a00d
+#EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo.png" group-title="За бавни мрежи",HBO
+http://212.70.131.37:8000/play/a05h
+#EXTINF:-1 tvg-id="hbo2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo2.png" group-title="За бавни мрежи",HBO 2
+http://212.70.131.37:8000/play/a05i
+#EXTINF:-1 tvg-id="hbo3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/hbo3.png" group-title="За бавни мрежи",HBO 3
+http://212.70.131.37:8000/play/a05y
+#EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="За бавни мрежи",Magic TV
+http://212.70.131.37:8000/play/a089
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
 http://62.176.112.19:8008/play/a0cx
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="За бавни мрежи",Planeta HD
@@ -364,9 +366,9 @@ http://62.176.112.19:8008/play/a0bg
 #EXTINF:-1 tvg-id="maxsport4.bg" tvg-logo="https://epg.cloudns.org/tv/logos/maxsport4.png" group-title="Спортни канали",MAX Sport 4 HD
 http://62.176.112.19:8008/play/a0d6
 #EXTINF:-1 tvg-id="novasport.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novasport.png" group-title="Спортни канали",Nova Sport
-http://87.120.179.187:8000/play/a00l
+http://212.70.131.37:8000/play/a05p
 #EXTINF:-1 tvg-id="ring.bg" tvg-logo="https://epg.cloudns.org/tv/logos/ring.png" group-title="Спортни канали",RING HD
-http://87.120.179.187:8000/play/a00w
+http://62.176.112.19:8008/play/a0bo
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="Политематични",BNT 1
 http://78.108.251.7/BNT1_HD/index.m3u8
 #EXTINF:-1 tvg-id="bnt2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt2.png" group-title="Политематични",BNT 2
