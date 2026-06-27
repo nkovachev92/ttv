@@ -3,8 +3,6 @@
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonito.png" group-title="Детски предавания",Cartoonito
 http://78.108.251.7/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="disneychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/disney.png" group-title="Детски предавания",Disney Channel
-http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="disneyjunior.bg" tvg-logo="https://epg.cloudns.org/tv/logos/disneyjunior.png" group-title="Детски предавания",Disney Junior
 http://78.108.251.7/Disney_Junior/mono.m3u8
 #EXTINF:-1 tvg-id="ekids.bg" tvg-logo="https://epg.cloudns.org/tv/logos/ekids.png" group-title="Детски предавания",E-Kids
@@ -75,6 +73,28 @@ http://84.54.128.52:9999/FOX
 http://62.176.112.19:8008/play/a056
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="Филми и сериали",Viasat Kino (TV1000)
 http://78.108.251.7/TV1000/mono.m3u8
+#EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="Новини и спорт",BNT 1
+http://62.176.112.19:8008/play/a046
+#EXTINF:-1 tvg-id="bnt2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt2.png" group-title="Новини и спорт",BNT 2
+http://84.54.128.52:9999/BNT2
+#EXTINF:-1 tvg-id="bnt3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt3.png" group-title="Новини и спорт",BNT 3
+http://62.176.112.19:8008/play/a063
+#EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="Новини и спорт",bTV
+http://78.108.251.7/bTV_HD/index.m3u8
+#EXTINF:-1 tvg-id="diemasport.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport.png" group-title="Новини и спорт",Diema Sport
+http://62.176.112.19:8008/play/a0bc
+#EXTINF:-1 tvg-id="diemasport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport2.png" group-title="Новини и спорт",Diema Sport 2
+http://62.176.112.19:8008/play/a0bd
+#EXTINF:-1 tvg-id="diemasport3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport3.png" group-title="Новини и спорт",Diema Sport 3
+http://62.176.112.19:8008/play/a0cj
+#EXTINF:-1 tvg-id="eurosport1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport1.png" group-title="Новини и спорт",Eurosport 1 HD
+http://78.108.251.7/Eurosport_HD/mono.m3u8
+#EXTINF:-1 tvg-id="eurosport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport2.png" group-title="Новини и спорт",Eurosport 2 HD
+http://78.108.251.7/Eurosport2_HD/mono.m3u8
+#EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="Новини и спорт",Nova TV
+http://78.108.251.7/Nova_HD/index.m3u8
+#EXTINF:-1 tvg-id="ring.bg" tvg-logo="https://epg.cloudns.org/tv/logos/ring.png" group-title="Новини и спорт",RING HD
+http://62.176.112.19:8008/play/a0bo
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="Музикални канали",Balkanika
 http://78.108.251.7/Balkanika/mono.m3u8
 #EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="Музикални канали",City TV
@@ -95,10 +115,6 @@ http://78.108.251.7/Planeta_HD/mono.m3u8
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="За бавни мрежи",Balkanika
 http://87.120.179.187:8000/play/a04s
-#EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="За бавни мрежи",BNT 1
-http://62.176.112.19:8008/play/a046
-#EXTINF:-1 tvg-id="bnt3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt3.png" group-title="За бавни мрежи",BNT 3
-http://62.176.112.19:8008/play/a063
 #EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="За бавни мрежи",bTV
 http://62.176.112.19:8008/play/a03w
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="За бавни мрежи",bTV Action
@@ -108,42 +124,10 @@ http://62.176.112.19:8008/play/a04i
 #EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="За бавни мрежи",City TV
 http://62.176.112.19:8008/play/a0dy
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
-http://62.176.112.19:8008/play/a0cx
+http://62.176.112.19:8008/play/a044
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
 http://62.176.112.19:8008/play/a0cx
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="За бавни мрежи",Planeta HD
 http://62.176.112.19:8008/play/a03t
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="За бавни мрежи",Viasat Kino (TV1000)
 http://62.176.112.19:8008/play/a0en
-#EXTINF:-1 tvg-id="diemasport.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport.png" group-title="Спортни канали",Diema Sport
-http://62.176.112.19:8008/play/a0bc
-#EXTINF:-1 tvg-id="diemasport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport2.png" group-title="Спортни канали",Diema Sport 2
-http://62.176.112.19:8008/play/a0bd
-#EXTINF:-1 tvg-id="diemasport3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemasport3.png" group-title="Спортни канали",Diema Sport 3
-http://62.176.112.19:8008/play/a0cj
-#EXTINF:-1 tvg-id="eurosport1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport1.png" group-title="Спортни канали",Eurosport 1 HD
-http://78.108.251.7/Eurosport_HD/mono.m3u8
-#EXTINF:-1 tvg-id="eurosport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport2.png" group-title="Спортни канали",Eurosport 2 HD
-http://78.108.251.7/Eurosport2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="maxsport1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/maxsport1.png" group-title="Спортни канали",MAX Sport 1 HD
-http://62.176.112.19:8008/play/a0be
-#EXTINF:-1 tvg-id="maxsport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/maxsport2.png" group-title="Спортни канали",MAX Sport 2 HD
-http://62.176.112.19:8008/play/a0bf
-#EXTINF:-1 tvg-id="maxsport3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/maxsport3.png" group-title="Спортни канали",MAX Sport 3 HD
-http://62.176.112.19:8008/play/a0bg
-#EXTINF:-1 tvg-id="maxsport4.bg" tvg-logo="https://epg.cloudns.org/tv/logos/maxsport4.png" group-title="Спортни канали",MAX Sport 4 HD
-http://62.176.112.19:8008/play/a0d6
-#EXTINF:-1 tvg-id="novasport.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novasport.png" group-title="Спортни канали",Nova Sport
-http://87.120.179.187:8000/play/a00l
-#EXTINF:-1 tvg-id="ring.bg" tvg-logo="https://epg.cloudns.org/tv/logos/ring.png" group-title="Спортни канали",RING HD
-http://62.176.112.19:8008/play/a0bo
-#EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="Политематични",BNT 1
-http://78.108.251.7/BNT1_HD/index.m3u8
-#EXTINF:-1 tvg-id="bnt2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt2.png" group-title="Политематични",BNT 2
-http://78.108.251.7/BNT2_HD/index.m3u8
-#EXTINF:-1 tvg-id="bnt3.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt3.png" group-title="Политематични",BNT 3
-http://78.108.251.7/BNT3_HD/index.m3u8
-#EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="Политематични",bTV
-http://78.108.251.7/bTV_HD/index.m3u8
-#EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="Политематични",Nova TV
-http://78.108.251.7/Nova_HD/index.m3u8
