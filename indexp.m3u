@@ -109,18 +109,10 @@ http://169.150.223.25/BangU/index.m3u8
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2324.png" group-title="XXX",Dorcel TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2324.png" group-title="XXX",Dorcel XXX
-http://162.19.246.113/XXX1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3170.png" group-title="XXX",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2777.png" group-title="XXX",Penthouse Gold
-http://162.19.246.113/XXX4/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2776.png" group-title="XXX",Penthouse Passion
-http://162.19.246.113/XXX3/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3214.png" group-title="XXX",Private HD
-http://162.19.246.113/XXX2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
 https://de1.dstv.cx/RealityKings/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.tv" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonnetwork.png" group-title="Детски предавания",Cartoon Network
