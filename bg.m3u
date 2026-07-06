@@ -69,6 +69,10 @@ http://78.108.251.7/KinoNova/index.m3u8
 http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
 http://84.54.128.52:9999/FOX
+#EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
+http://79.124.21.250:8199/play/StarCrimeHD/index.m3u8
+#EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
+http://79.124.21.250:8199/play/StarLifeHD/index.m3u8
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="Филми и сериали",Viasat Kino (TV1000)
 http://78.108.251.7/TV1000/mono.m3u8
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="Новини и спорт",BNT 1
