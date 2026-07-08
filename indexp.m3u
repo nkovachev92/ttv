@@ -194,7 +194,7 @@ http://78.108.251.7/KinoNova/index.m3u8
 #EXTINF:-1 tvg-id="moviestar.bg" tvg-logo="https://epg.cloudns.org/tv/logos/moviestar.png" group-title="Филми и сериали",MovieSTAR HD
 http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
-http://84.54.128.52:9999/FOX
+http://79.124.21.250:8199/play/StarHD/index.m3u8
 #EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
 http://79.124.21.250:8199/play/StarCrimeHD/index.m3u8
 #EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
