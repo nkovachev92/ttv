@@ -223,6 +223,8 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 http://78.108.251.7/Planeta_HD/mono.m3u8
 #EXTINF:-1 tvg-id="thevoice.bg" tvg-logo="https://epg.cloudns.org/tv/logos/thevoice.png" group-title="Музикални канали",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="За бавни мрежи",Balkanika
+http://83.228.75.166:8000/play/a0eh
 #EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="За бавни мрежи",bTV
 http://62.176.112.19:8008/play/a03w
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="За бавни мрежи",bTV Action
@@ -231,11 +233,27 @@ http://62.176.112.19:8008/play/a04n
 http://62.176.112.19:8008/play/a04i
 #EXTINF:-1 tvg-id="citytv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/city.png" group-title="За бавни мрежи",City TV
 http://62.176.112.19:8008/play/a0dy
+#EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="За бавни мрежи",Diema
+http://83.228.75.166:8000/play/a045
+#EXTINF:-1 tvg-id="diemafamily.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diemafamily.png" group-title="За бавни мрежи",Diema Family
+http://83.228.75.166:8000/play/a047
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
 http://62.176.112.19:8008/play/a044
+#EXTINF:-1 tvg-id="fentv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/fentv.png" group-title="За бавни мрежи",Fen TV
+http://83.228.75.166:8000/play/a0eg
+#EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="За бавни мрежи",Kino Nova
+http://83.228.75.166:8000/play/a041
+#EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="За бавни мрежи",Magic TV
+http://83.228.75.166:8000/play/a0de
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
 http://62.176.112.19:8008/play/a0cx
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="За бавни мрежи",Planeta HD
 http://62.176.112.19:8008/play/a03t
+#EXTINF:-1 tvg-id="explore.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatexplorer.png" group-title="За бавни мрежи",Viasat Explorer
+http://83.228.75.166:8000/play/a058
+#EXTINF:-1 tvg-id="history.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasathistory.png" group-title="За бавни мрежи",Viasat History
+http://83.228.75.166:8000/play/a0br
 #EXTINF:-1 tvg-id="kino.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/tv1000.png" group-title="За бавни мрежи",Viasat Kino (TV1000)
 http://62.176.112.19:8008/play/a0en
+#EXTINF:-1 tvg-id="nature.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatnature.png" group-title="За бавни мрежи",Viasat Nature
+http://83.228.75.166:8000/play/a0cg
