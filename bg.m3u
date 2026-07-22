@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://is.gd/fullepg""
+#EXTM3U x-tvg-url="https://is.gd/fullepg"
 #EXTINF:-1 tvg-id="cartoonnetwork.tv" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonnetwork.png" group-title="Детски предавания",Cartoon Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonito.png" group-title="Детски предавания",Cartoonito
