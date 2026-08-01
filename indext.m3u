@@ -53,13 +53,11 @@ https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 #EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" channel-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG_1756834917957.png" group-title="Pluto TV Movies",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
-#EXTINF:-1 tvg-id="69fa471bc2b638404ffa91bf" channel-id="69fa471bc2b638404ffa91bf" tvg-logo="https://images.pluto.tv/channels/69fa471bc2b638404ffa91bf/colorLogoPNG_1781130983128.png" group-title="Pluto TV Movies",Pluto TV Fireworks
-https://jmp2.uk/plu-69fa471bc2b638404ffa91bf.m3u8
 #EXTINF:-1 tvg-id="68fbf8101d26140175db8b58" channel-id="68fbf8101d26140175db8b58" tvg-logo="https://images.pluto.tv/channels/68fbf8101d26140175db8b58/colorLogoPNG_1762383685562.png" group-title="Pluto TV Movies",Pluto TV Franchise Favorites
 https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
 #EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" channel-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Pluto TV Movies",Pluto TV Horror
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-#EXTINF:-1 tvg-id="64b585f84ea480000838e446" channel-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="Pluto TV Movies",Pluto TV Icons
+#EXTINF:-1 tvg-id="64b585f84ea480000838e446" channel-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG_1785343035531.png" group-title="Pluto TV Movies",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 #EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" channel-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG_1731837948814.png" group-title="Pluto TV Movies",Pluto TV Reaction
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
@@ -97,12 +95,16 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" channel-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Pluto TV Sci-Fi",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" channel-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Pluto TV Sci-Fi",Stargate
+https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1 tvg-id="67352ed93a61d4000881f9fa" channel-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="Pluto TV Sci-Fi",The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" channel-id="6913e381b6bf26bb6e798c13" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Pluto TV Sci-Fi",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 #EXTINF:-1 tvg-id="5f4d83e0a382c00007bc02e7" channel-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Pluto TV Serials",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+#EXTINF:-1 tvg-id="61b3b8c645b45d0007a9bb8d" channel-id="61b3b8c645b45d0007a9bb8d" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png" group-title="Pluto TV Serials",Blue Bloods
+https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-id="6a28827ef4a627f3b07df1ea" channel-id="6a28827ef4a627f3b07df1ea" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png" group-title="Pluto TV Serials",Cheers
 https://jmp2.uk/plu-6a28827ef4a627f3b07df1ea.m3u8
 #EXTINF:-1 tvg-id="65653817c917a5000844bc30" channel-id="65653817c917a5000844bc30" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="Pluto TV Serials",Criminal Minds
@@ -129,18 +131,16 @@ https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="5f31fd1b4c510e00071c3103" channel-id="5f31fd1b4c510e00071c3103" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Pluto TV Serials",Pluto TV Crime Drama
 https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+#EXTINF:-1 tvg-id="69d6c7befde57cd5ba0160c3" channel-id="69d6c7befde57cd5ba0160c3" tvg-logo="https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png" group-title="Pluto TV Serials",Pluto TV Hometown Drama
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 #EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" channel-id="633354b63df9700007f6a1b7" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="Pluto TV Serials",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" channel-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Pluto TV Serials",Stories by AMC
-https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 #EXTINF:-1 tvg-id="5f24662bebe0f0000767de32" channel-id="5f24662bebe0f0000767de32" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Pluto TV Serials",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" channel-id="5d40bebc5e3d2750a2239d7e" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Pluto TV Serials",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" channel-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Pluto TV Serials",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-id="654933e253fc970008390114" channel-id="654933e253fc970008390114" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Pluto TV Serials",Universal Action
-https://jmp2.uk/plu-654933e253fc970008390114.m3u8
 #EXTINF:-1 tvg-id="USBD35000180U" channel-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="Stingray Music",Stingray Classic Rock
 https://jmp2.uk/stvp-USBD35000180U
 #EXTINF:-1 tvg-id="USBD3500011J3" channel-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250714T223117SQUARE.png" group-title="Stingray Music",Stingray Easy Listening
@@ -181,8 +181,6 @@ https://live-manifest.production-public.tubi.io/live/0ebfd814-cf17-4d01-a0e5-19f
 https://live-manifest.production-public.tubi.io/live/597417af-5589-4e08-a432-2ac5034e0a71/playlist.m3u8
 #EXTINF:-1 tvg-id="400000006" tvg-logo="https://canvas-lb.tubitv.com/opts/nn7juGtf37zWFQ==/9d4070e4-10ea-42f7-8598-d56da77c07e0/CHgQeDoFMS4xLjhAAQ==" group-title="TV Shows",OuterSphere
 https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a98980450c/playlist.m3u8
-#EXTINF:-1 tvg-id="11c7c3660c6b6f18a21838fd404a7a1d" channel-id="11c7c3660c6b6f18a21838fd404a7a1d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/11c7c3660c6b6f18a21838fd404a7a1d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749756384598_Stargate_HUDLogo_Centered_260x147.png" group-title="TV Shows",Stargate
-https://jmp2.uk/rok-11c7c3660c6b6f18a21838fd404a7a1d.m3u8
 #EXTINF:-1 tvg-id="99991622" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/168x168.png?type=color_onBlack" group-title="TV Shows",Stories by AMC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=2ffabc00-ecef-4f1a-ba13-e0ec9302b395&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="TV Shows",Universal Action
@@ -201,8 +199,6 @@ https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
 https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8
 #EXTINF:-1 tvg-id="0d5283959d3a59bf87411e7077fd9e58" channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" group-title="Vevo Music",Vevo Latino
 https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
-#EXTINF:-1 tvg-id="60db737695c95b599dad50d2c5595fe3" channel-id="60db737695c95b599dad50d2c5595fe3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" group-title="Vevo Music",Vevo Reggaeton & Trap
-https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
 #EXTINF:-1 tvg-id="USBB320000647" channel-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="XITE Music",XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
 #EXTINF:-1 tvg-id="USBB3200007AK" channel-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="XITE Music",XITE 90s Throwback
@@ -245,26 +241,16 @@ http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855819
 http://dns.fontedecanais.com.br:80/playercodestv/947942/1286478
 #EXTINF:-1 group-title="XXX 2",Mia Khalifa (2)
 http://nl01.plink-pile.ch/29081/index.m3u8?token=bEuEm9Si3Fqh2b
-#EXTINF:-1 group-title="XXX 2",Mia Khalifa (3)
-http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/695091
 #EXTINF:-1 group-title="XXX 2",Mom Wants Creampie
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855973
 #EXTINF:-1 group-title="XXX 2",Mom Wants To Breed
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855972
 #EXTINF:-1 group-title="XXX 2",Moms Teach Sex (1)
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855763
-#EXTINF:-1 group-title="XXX 2",Moms Teach Sex (2)
-http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/695086
 #EXTINF:-1 group-title="XXX 2",My Pervy Family
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855760
 #EXTINF:-1 group-title="XXX 2",My Pervy Family (2)
 http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/695084
-#EXTINF:-1 group-title="XXX 2",Nicole Aniston
-http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855954
-#EXTINF:-1 group-title="XXX 2",PervMom
-http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855942
-#EXTINF:-1 group-title="XXX 2",PervNana
-http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855941
 #EXTINF:-1 group-title="XXX 2",Princess Cum
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855931
 #EXTINF:-1 group-title="XXX 2",Reagan Foxx
@@ -279,10 +265,6 @@ http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73860
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73879
 #EXTINF:-1 group-title="XXX 3",Public Agent
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73855
-#EXTINF:-1 group-title="XXX 3",Russkaya Noch
-http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73822
-#EXTINF:-1 group-title="XXX 3",True Amateurs
-http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73854
 #EXTINF:-1 tvg-id="cartoonnetwork.tv" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonnetwork.png" group-title="Детски предавания",Cartoon Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonito.png" group-title="Детски предавания",Cartoonito
