@@ -345,8 +345,6 @@ http://83.228.75.166:8000/play/a0eg
 http://83.228.75.166:8000/play/a041
 #EXTINF:-1 tvg-id="magictv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/magictv.png" group-title="За бавни мрежи",Magic TV
 http://83.228.75.166:8000/play/a0de
-#EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
-http://83.228.75.166:8000/play/a03l
 #EXTINF:-1 tvg-id="planetatv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/planeta.png" group-title="За бавни мрежи",Planeta HD
 http://83.228.75.166:8000/play/a0ef
 #EXTINF:-1 tvg-id="explore.viasat.bg" tvg-logo="https://epg.cloudns.org/tv/logos/viasatexplorer.png" group-title="За бавни мрежи",Viasat Explorer
