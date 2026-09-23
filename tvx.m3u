@@ -231,6 +231,44 @@ https://jmp2.uk/stvp-USBB2300004KV
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-id="USBD350003932" channel-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260224T212700SQUARE.png" group-title="XITE Music",XITE Women in Music
 https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-id="99951478" tvg-logo="https://image.xumo.com/v1/channels/channel/99951478/168x168.png?type=color_onBlack" group-title="Xumo",Acorn TV Mysteries
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951478/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951478&ads.xumo_streamId=99951478&ads.channelId=99951478&ads.channelName=AMCAcornTV_us&ads.csid=xumo_web_AMCAcornTV_ssai&ads._fw_coppa=0&ads._fw_content_genre=Action,GD,Drama&ads.xumo_contentId=4360&ads.xumo_contentName=AMCAcornTV&ads.xumo_providerId=4360&ads.xumo_providerName=AMCAcornTV&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:01abd5ba-2ef5-4ceb-bc20-497228cee50a&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
+#EXTINF:-1 tvg-id="99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Xumo",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:3365db6b-a275-456d-8101-c0eef6aee660&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
+#EXTINF:-1 tvg-id="99951497" tvg-logo="https://image.xumo.com/v1/channels/channel/99951497/168x168.png?type=color_onBlack" group-title="Xumo",BBC Drama
+https://dbrb49pjoymg4.cloudfront.net/10001/99951497/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951497&ads.xumo_streamId=99951497&ads.channelId=99951497&ads.channelName=BBCDrama&ads.caid=BBCDrama&ads.csid=xumo_web_BBCDrama_ssai&ads.genre=Action,GV,Drama,GD&ads._fw_content_genre=Action,GV,Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=4346&ads.xumo_contentName=BBCDrama&ads.xumo_providerId=4346&ads.xumo_providerName=BBCDrama&ads.asnw=&ads.xumo_channelName=BBCDrama&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=03dda206-8968-4c4d-9581-250f697e893a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951213" tvg-logo="https://image.xumo.com/v1/channels/channel/99951213/168x168.png?type=color_onBlack" group-title="Xumo",BritBox Mysteries
+https://dtqutq7lmcchv.cloudfront.net/10001/99951213/hls/playlist.m3u8?ads.xumo_channelId=99951213&ads._fw_ifa_type=&ads._fw_did=81033da1-3453-4a3f-9778-9fc47bccee5b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCBritBoxMysteries&ads.csid=xumo_web_BBCBritBoxMysteries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3877&ads.xumo_contentName=BBCBritBoxMysteries&ads.xumo_providerId=3877&ads.xumo_providerName=BBCBritBoxMysteries&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951213&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951248" tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/168x168.png?type=color_onBlack" group-title="Xumo",Classic Doctor Who
+https://dbrb49pjoymg4.cloudfront.net/10001/99951248/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951248&ads.xumo_streamId=99951248&ads.channelId=99951248&ads.channelName=BBCClassicDoctorWho&ads.caid=BBCClassicDoctorWho&ads.csid=xumo_web_BBCClassicDoctorWho_ssai&ads.genre=Entertainment,Drama,GV,GD&ads._fw_content_genre=Entertainment,Drama,GV,GD&ads._fw_coppa=0&ads.xumo_contentId=3952&ads.xumo_contentName=BBCClassicDoctorWho&ads.xumo_providerId=3952&ads.xumo_providerName=BBCClassicDoctorWho&ads.asnw=&ads.xumo_channelName=BBCClassicDoctorWho&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=7f3d5290-f3c8-4cb5-9ff7-2386d0625a64&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951576" tvg-logo="https://image.xumo.com/v1/channels/channel/99951576/168x168.png?type=color_onBlack" group-title="Xumo",In the Heat of the Night
+https://dbrb49pjoymg4.cloudfront.net/10001/99951576/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951576&ads.xumo_streamId=99951576&ads.channelId=99951576&ads.channelName=InTheHeatOfTheNight&ads.caid=InTheHeatOfTheNight&ads.csid=xumo_web_InTheHeatOfTheNight_ssai&ads.genre=Drama,GD&ads._fw_content_genre=Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=4497&ads.xumo_contentName=InTheHeatOfTheNight&ads.xumo_providerId=4497&ads.xumo_providerName=InTheHeatOfTheNight&ads.asnw=&ads.xumo_channelName=InTheHeatOfTheNight&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=65d84b3d-5d67-4e0b-be32-c1fa02cb5a0c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951468" tvg-logo="https://image.xumo.com/v1/channels/channel/99951468/168x168.png?type=color_onBlack" group-title="Xumo",Law & Order
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951468/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951468&ads.xumo_streamId=99951468&ads.channelId=99951468&ads.asnw=169843&ads.afid=444754633&ads.sfid=23912191&ads.csid=xumo_web_nbculaworder_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=883f5106-d983-4b73-a7ff-119ed6fedd14&ads._fw_vcid2=512116:883f5106-d983-4b73-a7ff-119ed6fedd14&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
+#EXTINF:-1 tvg-id="99951573" tvg-logo="https://image.xumo.com/v1/channels/channel/99951573/168x168.png?type=color_onBlack" group-title="Xumo",MGM Presents
+https://dbrb49pjoymg4.cloudfront.net/10001/99951573/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951573&ads.xumo_streamId=99951573&ads.channelId=99951573&ads.channelName=MGMPresents&ads.caid=MGMPresents&ads.csid=xumo_web_MGMPresents_ssai&ads.genre=FF,IAB1-5&ads._fw_content_genre=FF,IAB1-5&ads._fw_coppa=0&ads.xumo_contentId=4494&ads.xumo_contentName=MGMPresents&ads.xumo_providerId=4494&ads.xumo_providerName=MGMPresents&ads.asnw=&ads.xumo_channelName=MGMPresents&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=4393249a-6d8f-4efc-a1b0-8ef9c3db7a84&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951572" tvg-logo="https://image.xumo.com/v1/channels/channel/99951572/168x168.png?type=color_onBlack" group-title="Xumo",MGM Presents: Action
+https://dbrb49pjoymg4.cloudfront.net/10001/99951572/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951572&ads.xumo_streamId=99951572&ads.channelId=99951572&ads.channelName=MGMPresentsAction&ads.caid=MGMPresentsAction&ads.csid=xumo_web_MGMPresentsAction_ssai&ads.genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_content_genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_coppa=0&ads.xumo_contentId=4493&ads.xumo_contentName=MGMPresentsAction&ads.xumo_providerId=4493&ads.xumo_providerName=MGMPresentsAction&ads.asnw=&ads.xumo_channelName=MGMPresentsAction&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=fed8004c-adf7-4b73-81ad-04ccd41d51a5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99991698" tvg-logo="https://image.xumo.com/v1/channels/channel/99991698/168x168.png?type=color_onBlack" group-title="Xumo",Midsomer Murders
+https://dbrb49pjoymg4.cloudfront.net/10001/99991698/hls/playlist.m3u8?ads.xumo_channelId=99991698&ads._fw_ifa_type=&ads._fw_did=2b7a6918-e587-48ba-a8aa-8eaff4edafaa&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=MidsomerMurders&ads.csid=xumo_web_MidsomerMurders_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3509&ads.xumo_contentName=MidsomerMurders&ads.xumo_providerId=3509&ads.xumo_providerName=MidsomerMurders&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991698&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951251" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="Xumo",MovieSphere by Lionsgate
+https://d10xbgdha1yz8s.cloudfront.net/10001/99951251/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951251&ads.xumo_streamId=99951251&ads.channelId=99951251&ads.channelName=LionsgateMovieSphere&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads.asnw=&ads.xumo_channelName=LionsgateMovieSphere&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=d55d4b4e-3522-4cec-8c8b-be07a30702d3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951239" tvg-logo="https://image.xumo.com/v1/channels/channel/99951239/168x168.png?type=color_onBlack" group-title="Xumo",Murder; She Wrote
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951239/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951239&ads.xumo_streamId=99951239&ads.channelId=99951239&ads.asnw=169843&ads.afid=380744959&ads.sfid=19208080&ads.csid=xumo_web_NBCUMurderSheWrote_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3927&ads.xumo_contentName=NBCUMurderSheWrote&ads.xumo_providerId=3927&ads.xumo_providerName=NBCUMurderSheWrote&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=34801e74-f7a8-4f2d-9bc3-40889f2e3a50&ads._fw_vcid2=512116:34801e74-f7a8-4f2d-9bc3-40889f2e3a50&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
+#EXTINF:-1 tvg-id="99951580" tvg-logo="https://image.xumo.com/v1/channels/channel/99951580/168x168.png?type=color_onBlack" group-title="Xumo",Stargate
+https://dbrb49pjoymg4.cloudfront.net/10001/99951580/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951580&ads.xumo_streamId=99951580&ads.channelId=99951580&ads.channelName=Stargate&ads.caid=Stargate&ads.csid=xumo_web_Stargate_ssai&ads.genre=SF,Sci-Fi,Mystery,IAB5&ads._fw_content_genre=SF,Sci-Fi,Mystery,IAB5&ads._fw_coppa=0&ads.xumo_contentId=4501&ads.xumo_contentName=Stargate&ads.xumo_providerId=4501&ads.xumo_providerName=Stargate&ads.asnw=&ads.xumo_channelName=Stargate&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=bbd1b626-2c68-4745-9a24-37f3dc2c8a7e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99991622" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/168x168.png?type=color_onBlack" group-title="Xumo",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991622&ads.xumo_streamId=99991622&ads.channelId=99991622&ads.channelName=&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_coppa=0&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:83fd3fbe-edd2-4584-bb5d-23ad644d9a7f&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
+#EXTINF:-1 tvg-id="99951579" tvg-logo="https://image.xumo.com/v1/channels/channel/99951579/168x168.png?type=color_onBlack" group-title="Xumo",The Outer Limits
+https://d38d8jwr5u7ckx.cloudfront.net/v1/master/2235ea0b65a152869ea53a8429808cfe476767a6/test-xumo-linear-main-hlsv3-ams/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951579&ads.xumo_streamId=99951579&ads.channelId=99951579&ads.asnw=&ads.caid=TheOuterLimits&ads.csid=xumo_web_TheOuterLimits_ssai&ads._fw_coppa=0&ads.xumo_contentId=4500&ads.xumo_contentName=TheOuterLimits&ads.xumo_providerId=4500&ads.xumo_providerName=TheOuterLimits&ads.channelName=TheOuterLimits&ads._fw_ifa_type=&ads._fw_did=f3385366-ce1d-4362-97ee-4d5c47447e59&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="Xumo",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951254&ads.xumo_streamId=99951254&ads.channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=c79f074f-502b-4bdf-8d52-41eaa2fdbd9c&ads._fw_vcid2=512116:c79f074f-502b-4bdf-8d52-41eaa2fdbd9c&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
+#EXTINF:-1 tvg-id="99951245" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/168x168.png?type=color_onBlack" group-title="Xumo",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951245&ads.xumo_streamId=99951245&ads.channelId=99951245&ads.asnw=169843&ads.afid=380752676&ads.sfid=19194700&ads.csid=xumo_web_NBCUUniversalCrime_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3939&ads.xumo_contentName=NBCUUniversalCrime&ads.xumo_providerId=3939&ads.xumo_providerName=NBCUUniversalCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=6b1ae56a-8412-4c44-a4d6-aa9dd4f419c7&ads._fw_vcid2=512116:6b1ae56a-8412-4c44-a4d6-aa9dd4f419c7&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
+#EXTINF:-1 tvg-id="99951264" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Xumo",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951264&ads.xumo_streamId=99951264&ads.channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=c3c38533-6581-4c66-b82f-d7b78dbaa911&ads._fw_vcid2=512116:c3c38533-6581-4c66-b82f-d7b78dbaa911&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
+#EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Xumo",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0ee35239-d609-4921-b41f-65860cedcf14&ads._fw_vcid2=512116:0ee35239-d609-4921-b41f-65860cedcf14&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3140.png" group-title="XXX",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers.eu" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
@@ -251,6 +289,8 @@ http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73858
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73857
 #EXTINF:-1 group-title="XXX 2",Family Swap
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855786
+#EXTINF:-1 group-title="XXX 2",FAMILY SWAP (2)
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/1578482
 #EXTINF:-1 group-title="XXX 2",Got MYLF
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855782
 #EXTINF:-1 group-title="XXX 2",Horny Dream Babez
@@ -263,14 +303,176 @@ http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855972
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855763
 #EXTINF:-1 group-title="XXX 2",Moms Teach Sex (2)
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855971
+#EXTINF:-1 group-title="XXX 2",MY FAMILY PIES
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/1578472
 #EXTINF:-1 group-title="XXX 2",My Pervy Family
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73879
+#EXTINF:-1 group-title="XXX 2",MY PERVY FAMILY (2)
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/1578471
 #EXTINF:-1 group-title="XXX 2",Perv Mom
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855942
 #EXTINF:-1 group-title="XXX 2",Princess Cum
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855931
 #EXTINF:-1 group-title="XXX 2",Public Agent
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73855
+#EXTINF:-1 group-title="XXX 3",MYLF
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695553
+#EXTINF:-1 group-title="XXX 3",MYLF HD
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695552
+#EXTINF:-1 group-title="XXX 3",SEXMEX (1)
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/588968
+#EXTINF:-1 group-title="XXX 3",SEXMEX (2)
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/617470
+#EXTINF:-1 group-title="XXX 3",SEXTREME
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/588854
+#EXTINF:-1 group-title="XXX 3",Sextreme HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/516183
+#EXTINF:-1 group-title="XXX 3",VERIFIED AMATEURS: KRISS KISS
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/703080
+#EXTINF:-1 group-title="XXX 3",VERIFIED AMATEURS: NOTSOAMATEUR
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/703087
+#EXTINF:-1 group-title="XXX 3",VERIFIED AMATEURS: TINNA ANGEL
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/703096
+#EXTINF:-1 group-title="XXX 4",Bratty Sis
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695198
+#EXTINF:-1 group-title="XXX 4",Mia Khalifa HD
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695091
+#EXTINF:-1 group-title="XXX 4",My Pervy Family
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695084
+#EXTINF:-1 group-title="XXX 4",Princess Cum
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695045
+#EXTINF:-1 group-title="XXX 4 PORNBOX",FAMILY SWAP
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702668
+#EXTINF:-1 group-title="XXX 4 PORNBOX",GOTMYLF
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702664
+#EXTINF:-1 group-title="XXX 4 PORNBOX",HORNY DREAM BABEZ
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702670
+#EXTINF:-1 group-title="XXX 4 PORNBOX",MOM TEACH SEX
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702645
+#EXTINF:-1 group-title="XXX 4 PORNBOX",MY FAMILY PIES
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702643
+#EXTINF:-1 group-title="XXX 4 PORNBOX",MY PERVY FAMILY
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702642
+#EXTINF:-1 group-title="XXX 4 PORNBOX",MYLF
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702640
+#EXTINF:-1 group-title="XXX 4 PORNBOX",PERV MOM
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702634
+#EXTINF:-1 group-title="XXX 4 X4",Ava Addams
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/703011
+#EXTINF:-1 group-title="XXX 4 X4",Bratty Milf
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702987
+#EXTINF:-1 group-title="XXX 4 X4",Bratty Sis
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702986
+#EXTINF:-1 group-title="XXX 4 X4",Chloe Temple
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702974
+#EXTINF:-1 group-title="XXX 4 X4",Cory Chase
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702970
+#EXTINF:-1 group-title="XXX 4 X4",Eva Elfie
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702931
+#EXTINF:-1 group-title="XXX 4 X4",Lexi Luna
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702852
+#EXTINF:-1 group-title="XXX 4 X4",Mila Solana
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702823
+#EXTINF:-1 group-title="XXX 4 X4",Molly Little
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702811
+#EXTINF:-1 group-title="XXX 4 X4",Mom Wants Creampie
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702805
+#EXTINF:-1 group-title="XXX 4 X4",Mom Wants To Breed
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702804
+#EXTINF:-1 group-title="XXX 4 X4",Moms Teach Sex
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702803
+#EXTINF:-1 group-title="XXX 4 X4",My Pervy Family
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702799
+#EXTINF:-1 group-title="XXX 4 X4",Perv Mom
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702774
+#EXTINF:-1 group-title="XXX 4 X4",Perv Nana
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702773
+#EXTINF:-1 group-title="XXX 4 X4",Princess Cum
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702763
+#EXTINF:-1 group-title="XXX 4 X4",Reagan Foxx
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702751
+#EXTINF:-1 group-title="XXX 4 X4",Sheena Ryder
+http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/702731
+#EXTINF:-1 group-title="XXX 5",Glory Hole
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695130
+#EXTINF:-1 group-title="XXX 5",GOTMYLF
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695592
+#EXTINF:-1 group-title="XXX 5",Mia Khalifa HD
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695091
+#EXTINF:-1 group-title="XXX 5",My Pervy Family
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695084
+#EXTINF:-1 group-title="XXX 5",MYLF
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695553
+#EXTINF:-1 group-title="XXX 5",MYLF HD
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695552
+#EXTINF:-1 group-title="XXX 5",PERV MOM
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695540
+#EXTINF:-1 group-title="XXX 5",Princess Cum
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/695045
+#EXTINF:-1 group-title="XXX 5",VERIFIED AMATEURS: KRISS KISS
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/703080
+#EXTINF:-1 group-title="XXX 5",VERIFIED AMATEURS: MINI DIVA
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/703084
+#EXTINF:-1 group-title="XXX 5",VERIFIED AMATEURS: NOTSOAMATEUR
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/703087
+#EXTINF:-1 group-title="XXX 5",VERIFIED AMATEURS: TINNA ANGEL
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/703096
+#EXTINF:-1 group-title="XXX 5 PORNBOX",FAMILY SWAP
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702668
+#EXTINF:-1 group-title="XXX 5 PORNBOX",GOTMYLF
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702664
+#EXTINF:-1 group-title="XXX 5 PORNBOX",MOM TEACH SEX
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702645
+#EXTINF:-1 group-title="XXX 5 PORNBOX",MY FAMILY PIES
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702643
+#EXTINF:-1 group-title="XXX 5 PORNBOX",MY PERVY FAMILY
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702642
+#EXTINF:-1 group-title="XXX 5 PORNBOX",MYLF
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702640
+#EXTINF:-1 group-title="XXX 5 PORNBOX",NF BUSTY
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702641
+#EXTINF:-1 group-title="XXX 5 PORNBOX",PERV MOM
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702634
+#EXTINF:-1 group-title="XXX 5 X4",Bratty Milf
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702987
+#EXTINF:-1 group-title="XXX 5 X4",Bratty Sis
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702986
+#EXTINF:-1 group-title="XXX 5 X4",Carla Cute
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702979
+#EXTINF:-1 group-title="XXX 5 X4",Chloe Temple
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702974
+#EXTINF:-1 group-title="XXX 5 X4",Cory Chase
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702970
+#EXTINF:-1 group-title="XXX 5 X4",Eva Elfie
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702931
+#EXTINF:-1 group-title="XXX 5 X4",Ginebra Bellucci
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702912
+#EXTINF:-1 group-title="XXX 5 X4",Kendra Lust
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702879
+#EXTINF:-1 group-title="XXX 5 X4",Lexi Luna
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702852
+#EXTINF:-1 group-title="XXX 5 X4",Mila Solana
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702823
+#EXTINF:-1 group-title="XXX 5 X4",Molly Little
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702811
+#EXTINF:-1 group-title="XXX 5 X4",Mom Wants Creampie
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702805
+#EXTINF:-1 group-title="XXX 5 X4",Mom Wants To Breed
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702804
+#EXTINF:-1 group-title="XXX 5 X4",Moms Teach Sex
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702803
+#EXTINF:-1 group-title="XXX 5 X4",Perv Mom
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702774
+#EXTINF:-1 group-title="XXX 5 X4",Perv Nana
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702773
+#EXTINF:-1 group-title="XXX 5 X4",Princess Cum
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702763
+#EXTINF:-1 group-title="XXX 5 X4",Reagan Foxx
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702751
+#EXTINF:-1 group-title="XXX 5 X4",Sheena Ryder
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702731
+#EXTINF:-1 group-title="XXX 5 X4",Sloplyfter MYLF
+http://eempiree.com:8080/7c4d786550df6f25/b04c05ceb903ac26/702726
 #EXTINF:-1 group-title="XXX Pornstars",Chloe Temple
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/856142
 #EXTINF:-1 group-title="XXX Pornstars",Cory Chase
@@ -285,5 +487,9 @@ http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/856020
 http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73860
 #EXTINF:-1 group-title="XXX Pornstars",Nicole Aniston
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855830
+#EXTINF:-1 group-title="XXX Pornstars",NOTSOAMATEUR
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/693217
 #EXTINF:-1 group-title="XXX Pornstars",Reagan Foxx
 http://zerotv.eu:8080/Cemcakirtv/bKXsD9q/855919
+#EXTINF:-1 group-title="XXX Pornstars",TINNA ANGEL
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/693212

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://is.gd/fullepg,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
+#EXTM3U x-tvg-url="https://is.gd/fullepg,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="d6f71998860459eca1bed73db5988330" channel-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="Movies",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
 #EXTINF:-1 tvg-id="6a0629e467b5502c906136dadac290a0" channel-id="6a0629e467b5502c906136dadac290a0" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001400459_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="Movies",FilmRise Horror
@@ -319,6 +319,14 @@ http://neosfpoo.top:8080/qbSMSENjvVg6/Zfk9mAP7uTcJ/73855
 http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695553
 #EXTINF:-1 group-title="XXX 3",MYLF HD
 http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/695552
+#EXTINF:-1 group-title="XXX 3",SEXMEX (1)
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/588968
+#EXTINF:-1 group-title="XXX 3",SEXMEX (2)
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/617470
+#EXTINF:-1 group-title="XXX 3",SEXTREME
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/588854
+#EXTINF:-1 group-title="XXX 3",Sextreme HD
+http://ak-47scan.dyndns.tv:25461/Gio8/8h52Hz7jBsjZ/516183
 #EXTINF:-1 group-title="XXX 3",VERIFIED AMATEURS: KRISS KISS
 http://clubxc.com:8080/MarcelGoldmann/FjhsBtS2My/703080
 #EXTINF:-1 group-title="XXX 3",VERIFIED AMATEURS: NOTSOAMATEUR
@@ -552,7 +560,7 @@ http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia.bg" tvg-logo="https://epg.cloudns.org/tv/logos/nostalgia.png" group-title="Филми и сериали",Nostalgia
 http://87.120.179.187:8000/play/a04y
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
-http://84.54.128.52:9999/FOX
+http://87.120.179.187:8000/play/a013
 #EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
 http://87.120.179.187:8000/play/a00r
 #EXTINF:-1 tvg-id="foxlife.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starlife.png" group-title="Филми и сериали",STAR Life
