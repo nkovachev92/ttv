@@ -47,6 +47,8 @@ https://jmp2.uk/stvp-USBD3500017CE
 https://jmp2.uk/stvp-USBD35000128A
 #EXTINF:-1 tvg-id="USBD3500009Y3" channel-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20250630T232530SQUARE.png" group-title="Stingray Music",Stingray Today's Latin Pop
 https://jmp2.uk/stvp-USBD3500009Y3
+#EXTINF:-1 tvg-id="5396bbd4038fd1901a9a7a63af4f2441" channel-id="5396bbd4038fd1901a9a7a63af4f2441" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5396bbd4038fd1901a9a7a63af4f2441/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787712267766_Andromeda_HUDlogo_centered_260x147.png" group-title="TV Shows",Andromeda
+https://jmp2.uk/rok-5396bbd4038fd1901a9a7a63af4f2441.m3u8
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/nDFPtoJN0b7OYw==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjlAAQ==" group-title="TV Shows",Anger Management
 https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
 #EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="TV Shows",Baywatch
