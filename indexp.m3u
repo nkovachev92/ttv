@@ -249,24 +249,14 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?includeAsset
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951245&ads.xumo_streamId=99951245&ads.channelId=99951245&ads.asnw=169843&ads.afid=380752676&ads.sfid=19194700&ads.csid=xumo_web_NBCUUniversalCrime_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3939&ads.xumo_contentName=NBCUUniversalCrime&ads.xumo_providerId=3939&ads.xumo_providerName=NBCUUniversalCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=6b1ae56a-8412-4c44-a4d6-aa9dd4f419c7&ads._fw_vcid2=512116:6b1ae56a-8412-4c44-a4d6-aa9dd4f419c7&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
 #EXTINF:-1 tvg-id="302d8d86738c0ab83d0ca3a5e2df3492" channel-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="TV Shows",Xena
 https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
-#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" channel-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Vevo Music",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
-#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" channel-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Vevo Music",Vevo '70s
-https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" channel-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Vevo Music",Vevo '80s
-https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
-#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" channel-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Vevo Music",Vevo '90s
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
-#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" channel-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Vevo Music",Vevo Country
-https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
-#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" channel-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Vevo Music",Vevo Pop
-https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
-#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e" channel-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Vevo Music",Vevo R&B
-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
-#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" channel-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="Vevo Music",Vevo Rock
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
-#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" channel-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Vevo Music",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 tvg-id="GBBD1900009UD" channel-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Vevo Music",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-id="GBBC2100002HP" channel-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Vevo Music",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-id="GBBD2300001C0" channel-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Vevo Music",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-id="GBBC19000017V" channel-id="GBBC19000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Vevo Music",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3140.png" group-title="XXX",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers.eu" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
