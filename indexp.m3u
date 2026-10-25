@@ -262,9 +262,11 @@ http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers.eu" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
 http://193.239.186.231/BRAZZERS/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2324.png" group-title="XXX",Dorcel TV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3170.png" group-title="XXX",Extasy HD
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/7736.png" group-title="XXX",FAMILY SWAP
+http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/1578482
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
