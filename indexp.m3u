@@ -289,10 +289,6 @@ http://78.108.251.7/NickToons/mono.m3u8
 http://78.108.244.134:8899/24Kitchen
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="Документални",Discovery Channel
 http://78.108.251.7/Discovery_HD/mono.m3u8
-#EXTINF:-1 tvg-id="natgeo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/natgeo.png" group-title="Документални",National Geographic
-http://78.108.244.134:8899/ngeo
-#EXTINF:-1 tvg-id="natgeowild.bg" tvg-logo="https://epg.cloudns.org/tv/logos/natgeowild.png" group-title="Документални",National Geographic Wild
-http://78.108.244.134:8899/ngw
 #EXTINF:-1 tvg-id="travelchannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/travelchannel.png" group-title="Документални",Travel Channel
 http://78.108.251.7/Travel_Channel_HD/mono.m3u8
 #EXTINF:-1 tvg-id="traveltv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/travel.png" group-title="Документални",Travel TV
@@ -329,8 +325,6 @@ http://78.108.251.7/HBO3_HD/mono.m3u8
 http://78.108.251.7/KinoNova/index.m3u8
 #EXTINF:-1 tvg-id="moviestar.bg" tvg-logo="https://epg.cloudns.org/tv/logos/moviestar.png" group-title="Филми и сериали",MovieSTAR HD
 http://78.108.251.7/MovieStar/mono.m3u8
-#EXTINF:-1 tvg-id="nostalgia.bg" tvg-logo="https://epg.cloudns.org/tv/logos/nostalgia.png" group-title="Филми и сериали",Nostalgia
-http://87.120.179.187:8000/play/a04y
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="Филми и сериали",STAR Channel
 http://84.54.128.52:9999/FOX
 #EXTINF:-1 tvg-id="foxcrime.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starcrime.png" group-title="Филми и сериали",STAR Crime
@@ -373,8 +367,6 @@ http://87.120.179.187:8000/play/a04s
 http://87.120.179.187:8000/play/a007
 #EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="За бавни мрежи",bTV
 http://185.97.73.187:11000/play/btv/index.m3u8
-#EXTINF:-1 tvg-id="btvaction.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btvaction.png" group-title="За бавни мрежи",bTV Action
-http://87.120.179.187:8000/play/a00v
 #EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="За бавни мрежи",Diema
 http://78.108.244.134:8899/diema
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
