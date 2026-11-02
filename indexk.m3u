@@ -1,14 +1,12 @@
 #EXTM3U x-tvg-url="https://is.gd/fullepg,https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
-#EXTINF:-1 tvg-id="GB2600015OS" channel-id="GB2600015OS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20260901T102422SQUARE.png" group-title="Movies",Action Movies - Rakuten TV
-https://jmp2.uk/stvp-GB2600015OS
 #EXTINF:-1 tvg-id="99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Movies",AMC Thrillers
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:3365db6b-a275-456d-8101-c0eef6aee660&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
-#EXTINF:-1 tvg-id="GB2600020OP" channel-id="GB2600020OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20260707T052017SQUARE.png" group-title="Movies",Comedy Movies - Rakuten TV
-https://jmp2.uk/stvp-GB2600020OP
-#EXTINF:-1 tvg-id="GB2600012R3" channel-id="GB2600012R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20260707T052032SQUARE.png" group-title="Movies",Drama Movies - Rakuten TV
-https://jmp2.uk/stvp-GB2600012R3
+#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",CINEVAULT
+https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
 #EXTINF:-1 tvg-id="d6f71998860459eca1bed73db5988330" channel-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" group-title="Movies",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
+#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/-0YnftAlhsdv5Q==/534a2575-8a54-472d-ac96-d71cbd6cb0cf/CHgQeDoFMS4xLjlAAQ==" group-title="Movies",FilmRise Horror
+https://live-manifest.production-public.tubi.io/live/4c82889c-7b9c-4f06-bc61-8f18fd23a49a/playlist.m3u8
 #EXTINF:-1 tvg-id="GB12000052F" channel-id="GB12000052F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20260113T032609SQUARE.png" group-title="Movies",Icon Film Channel
 https://jmp2.uk/stvp-GB12000052F
 #EXTINF:-1 tvg-id="99951573" tvg-logo="https://image.xumo.com/v1/channels/channel/99951573/168x168.png?type=color_onBlack" group-title="Movies",MGM Presents
@@ -27,14 +25,6 @@ https://live-manifest.production-public.tubi.io/live/ab6d635a-6d89-4228-93a6-c3a
 https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1 tvg-id="USBA300017PK" channel-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20261002T181921SQUARE.png" group-title="Movies",Pluto TV Fantastic
 https://jmp2.uk/stvp-USBA300017PK
-#EXTINF:-1 tvg-id="GB2600014LQ" channel-id="GB2600014LQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="Movies",Romance Movies - Rakuten TV
-https://jmp2.uk/stvp-GB2600014LQ
-#EXTINF:-1 tvg-id="GB2600013BO" channel-id="GB2600013BO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="Movies",Sci-Fi - Rakuten TV
-https://jmp2.uk/stvp-GB2600013BO
-#EXTINF:-1 tvg-id="GB4100003VP" channel-id="GB4100003VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="Movies",Thrillers - Rakuten TV
-https://jmp2.uk/stvp-GB4100003VP
-#EXTINF:-1 tvg-id="GB2600018PD" channel-id="GB2600018PD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="Movies",Top Movies - Rakuten TV
-https://jmp2.uk/stvp-GB2600018PD
 #EXTINF:-1 tvg-id="99951264" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Movies",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0c148f15-51c8-4062-8655-eeb642244184&ads._fw_vcid2=512116:0c148f15-51c8-4062-8655-eeb642244184&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Movies",Universal Movies
@@ -189,6 +179,20 @@ https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="654933e253fc970008390114" channel-id="654933e253fc970008390114" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="PlutoTV Serials",Universal Action
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
+#EXTINF:-1 tvg-id="GB2600015OS" channel-id="GB2600015OS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20260901T102422SQUARE.png" group-title="Rakuten TV",Action Movies
+https://jmp2.uk/stvp-GB2600015OS
+#EXTINF:-1 tvg-id="GB2600020OP" channel-id="GB2600020OP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20260707T052017SQUARE.png" group-title="Rakuten TV",Comedy Movies
+https://jmp2.uk/stvp-GB2600020OP
+#EXTINF:-1 tvg-id="GB2600012R3" channel-id="GB2600012R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20260707T052032SQUARE.png" group-title="Rakuten TV",Drama Movies
+https://jmp2.uk/stvp-GB2600012R3
+#EXTINF:-1 tvg-id="GB2600014LQ" channel-id="GB2600014LQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="Rakuten TV",Romance Movies
+https://jmp2.uk/stvp-GB2600014LQ
+#EXTINF:-1 tvg-id="GB2600013BO" channel-id="GB2600013BO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="Rakuten TV",Sci-Fi
+https://jmp2.uk/stvp-GB2600013BO
+#EXTINF:-1 tvg-id="GB4100003VP" channel-id="GB4100003VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="Rakuten TV",Thrillers
+https://jmp2.uk/stvp-GB4100003VP
+#EXTINF:-1 tvg-id="GB2600018PD" channel-id="GB2600018PD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="Rakuten TV",Top Movies
+https://jmp2.uk/stvp-GB2600018PD
 #EXTINF:-1 tvg-id="USBD35000180U" channel-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="Stingray Music",Stingray Classic Rock
 https://jmp2.uk/stvp-USBD35000180U
 #EXTINF:-1 tvg-id="USBD3500011J3" channel-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250714T223117SQUARE.png" group-title="Stingray Music",Stingray Easy Listening
@@ -219,6 +223,8 @@ https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-999
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 #EXTINF:-1 tvg-id="99951497" tvg-logo="https://image.xumo.com/v1/channels/channel/99951497/168x168.png?type=color_onBlack" group-title="TV Shows",BBC Drama
 https://dbrb49pjoymg4.cloudfront.net/10001/99951497/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951497&ads.xumo_streamId=99951497&ads.channelId=99951497&ads.channelName=BBCDrama&ads.caid=BBCDrama&ads.csid=xumo_web_BBCDrama_ssai&ads.genre=Action,GV,Drama,GD&ads._fw_content_genre=Action,GV,Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=4346&ads.xumo_contentName=BBCDrama&ads.xumo_providerId=4346&ads.xumo_providerName=BBCDrama&ads.asnw=&ads.xumo_channelName=BBCDrama&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=03dda206-8968-4c4d-9581-250f697e893a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="400000062" tvg-logo="https://canvas-lb.tubitv.com/opts/dn78f9-BM_rpCQ==/7d5c01ed-fb34-40c8-8c25-a56895e550f0/CHgQeDoFMS4xLjlAAQ==" group-title="TV Shows",BritBox Mysteries
+https://live-manifest.production-public.tubi.io/live/3ce83511-4f77-491d-ae2d-94f9c5dad672/playlist.m3u8
 #EXTINF:-1 tvg-id="99951248" tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/168x168.png?type=color_onBlack" group-title="TV Shows",Classic Doctor Who
 https://dbrb49pjoymg4.cloudfront.net/10001/99951248/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951248&ads.xumo_streamId=99951248&ads.channelId=99951248&ads.channelName=BBCClassicDoctorWho&ads.caid=BBCClassicDoctorWho&ads.csid=xumo_web_BBCClassicDoctorWho_ssai&ads.genre=Entertainment,Drama,GV,GD&ads._fw_content_genre=Entertainment,Drama,GV,GD&ads._fw_coppa=0&ads.xumo_contentId=3952&ads.xumo_contentName=BBCClassicDoctorWho&ads.xumo_providerId=3952&ads.xumo_providerName=BBCClassicDoctorWho&ads.asnw=&ads.xumo_channelName=BBCClassicDoctorWho&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=7f3d5290-f3c8-4cb5-9ff7-2386d0625a64&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 tvg-id="d89b6124edce5dc0a4dfe42a8026353a" channel-id="d89b6124edce5dc0a4dfe42a8026353a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d89b6124edce5dc0a4dfe42a8026353a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450359978_degrassi_HUDlogo_centered_260x147.png" group-title="TV Shows",Degrassi
@@ -235,8 +241,14 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951239/hls/master.m3u8?includeAsset
 https://dbrb49pjoymg4.cloudfront.net/10001/99951580/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951580&ads.xumo_streamId=99951580&ads.channelId=99951580&ads.channelName=Stargate&ads.caid=Stargate&ads.csid=xumo_web_Stargate_ssai&ads.genre=SF,Sci-Fi,Mystery,IAB5&ads._fw_content_genre=SF,Sci-Fi,Mystery,IAB5&ads._fw_coppa=0&ads.xumo_contentId=4501&ads.xumo_contentName=Stargate&ads.xumo_providerId=4501&ads.xumo_providerName=Stargate&ads.asnw=&ads.xumo_channelName=Stargate&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=bbd1b626-2c68-4745-9a24-37f3dc2c8a7e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 tvg-id="99991622" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/168x168.png?type=color_onBlack" group-title="TV Shows",Stories by AMC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991622&ads.xumo_streamId=99991622&ads.channelId=99991622&ads.channelName=&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_coppa=0&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:83fd3fbe-edd2-4584-bb5d-23ad644d9a7f&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=
+#EXTINF:-1 tvg-id="USAJ26000015Y" channel-id="USAJ26000015Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20261023T223528SQUARE.png" group-title="TV Shows",Supernatural Drama
+https://jmp2.uk/stvp-USAJ26000015Y
 #EXTINF:-1 tvg-id="99951579" tvg-logo="https://image.xumo.com/v1/channels/channel/99951579/168x168.png?type=color_onBlack" group-title="TV Shows",The Outer Limits
 https://d38d8jwr5u7ckx.cloudfront.net/v1/master/2235ea0b65a152869ea53a8429808cfe476767a6/test-xumo-linear-main-hlsv3-ams/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951579&ads.xumo_streamId=99951579&ads.channelId=99951579&ads.asnw=&ads.caid=TheOuterLimits&ads.csid=xumo_web_TheOuterLimits_ssai&ads._fw_coppa=0&ads.xumo_contentId=4500&ads.xumo_contentName=TheOuterLimits&ads.xumo_providerId=4500&ads.xumo_providerName=TheOuterLimits&ads.channelName=TheOuterLimits&ads._fw_ifa_type=&ads._fw_did=f3385366-ce1d-4362-97ee-4d5c47447e59&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+#EXTINF:-1 tvg-id="USBB3500002FL" channel-id="USBB3500002FL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20260421T133608SQUARE.png" group-title="TV Shows",TV Land Drama
+https://jmp2.uk/stvp-USBB3500002FL
+#EXTINF:-1 tvg-id="USBA300019WF" channel-id="USBA300019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20260421T143002SQUARE.png" group-title="TV Shows",TV Land Sitcoms
+https://jmp2.uk/stvp-USBA300019WF
 #EXTINF:-1 tvg-id="99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="TV Shows",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951254&ads.xumo_streamId=99951254&ads.channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=c79f074f-502b-4bdf-8d52-41eaa2fdbd9c&ads._fw_vcid2=512116:c79f074f-502b-4bdf-8d52-41eaa2fdbd9c&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
 #EXTINF:-1 tvg-id="99951245" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/168x168.png?type=color_onBlack" group-title="TV Shows",Universal Crime
@@ -259,8 +271,6 @@ http://193.239.186.231/BRAZZERS/index.m3u8
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3170.png" group-title="XXX",Extasy HD
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/7736.png" group-title="XXX",FAMILY SWAP
-http://france.ottcst.org:80/3V3GRDCO7O/XDQNB2GTDN/1578482
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",RK TV
@@ -333,50 +343,6 @@ http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/158564
 http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/158540
 #EXTINF:-1 group-title="XXX 3",REDLIGHT HD
 http://aneqwvp.top:8080/vip2281787900896/9badd3a20791/158578
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/b7tgULKO4C.png" group-title="XXX OLERO",21 Naturals
-http://66.90.110.10:8080/bZVJyA0EUr/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/YbPfecwZua.png" group-title="XXX OLERO",Big Naturals
-http://66.90.110.10:8080/nTqvQvOZ8w/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/pdZLcTAPz4.png" group-title="XXX OLERO",DDF Busty
-http://66.90.110.10:8080/YPFUgROXBC/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/ir5lUHdL8L.png" group-title="XXX OLERO",Exploited College Girls
-http://66.90.110.10:8080/OD4LETwLjA/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/uaahySTadu.png" group-title="XXX OLERO",Fake Hostel
-http://66.90.110.10:8080/Ad5s9Zdm1o/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/fGR4hW23c3.png" group-title="XXX OLERO",Fake Taxi
-http://66.90.110.10:8080/HMMvQOgadx/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/W1ogecK6oC.png" group-title="XXX OLERO",Family Strokes
-http://66.90.110.10:8080/YgF5CrGgan/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/A3jX8zDlGq.png" group-title="XXX OLERO",Family Swap
-http://66.90.110.10:8080/DQ6VeuYac8/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/c3Cf1v7GPc.png" group-title="XXX OLERO",Got Mylf
-http://66.90.110.10:8080/bY9E7qtDro/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/k946CZAaB1.png" group-title="XXX OLERO",Jacquie et Michel TV
-http://66.90.110.10:8080/aKBuo759m9/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/sUBsI4ptgK.png" group-title="XXX OLERO",Massage Rooms
-http://66.90.110.10:8080/uEndTxGEbC/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/cbVS26vSvf.png" group-title="XXX OLERO",Moms Teach Sex
-http://66.90.110.10:8080/iqk3UkDgDR/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/R2F456FM09.png" group-title="XXX OLERO",My Pervy Family
-http://66.90.110.10:8080/YmG5Cqc2JD/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/bbyFkDfwc8.png" group-title="XXX OLERO",Naughty Office
-http://66.90.110.10:8080/Tb9YJFEheT/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/HkaWWytmZB.png" group-title="XXX OLERO",PervMom
-http://66.90.110.10:8080/CLccKLsJ7x/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/ffeceKFqDk.png" group-title="XXX OLERO",PornFidelity
-http://66.90.110.10:8080/XN7Acik2gy/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/B8a7jwv53c.png" group-title="XXX OLERO",POVD
-http://66.90.110.10:8080/N4Xmx1Ua35/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/DecvKdKFa7.png" group-title="XXX OLERO",Property Sex
-http://66.90.110.10:8080/Srf8Rv1i3q/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/yizRoc6He5.png" group-title="XXX OLERO",Public Agent
-http://66.90.110.10:8080/VCSzKfmlvw/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/o0JEZNsZcm.png" group-title="XXX OLERO",ShopLyfter
-http://66.90.110.10:8080/AGapqoHkLh/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/jMM7QD9Tiu.png" group-title="XXX OLERO",Shoplyfter Mylf
-http://66.90.110.10:8080/k3pXAKTwqS/index.m3u8?token=CNVkbIWpdNQAUXGC
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://odinson.me/storage/iptv/channels/QHGKe1qy2y.png" group-title="XXX OLERO",TeenFidelity
-http://66.90.110.10:8080/TBo6UCnJgs/index.m3u8?token=CNVkbIWpdNQAUXGC
 #EXTINF:-1 tvg-id="cartoonnetwork.tv" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonnetwork.png" group-title="Детски предавания",Cartoon Network
 http://78.108.251.7/Cartoon_Network/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito.bg" tvg-logo="https://epg.cloudns.org/tv/logos/cartoonito.png" group-title="Детски предавания",Cartoonito
@@ -449,8 +415,6 @@ http://78.108.251.7/bTV_HD/index.m3u8
 http://78.108.251.7/Eurosport_HD/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport2.png" group-title="Новини и спорт",Eurosport 2 HD
 http://78.108.251.7/Eurosport2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="news.nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novanews.png" group-title="Новини и спорт",Nova News
-http://78.108.244.134:8899/novanews
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="Новини и спорт",Nova TV
 http://78.108.251.7/Nova_HD/index.m3u8
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="Музикални канали",Balkanika
@@ -469,12 +433,8 @@ http://78.108.251.7/Planeta_HD/mono.m3u8
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="За бавни мрежи",bTV
 http://185.97.73.187:11000/play/btv/index.m3u8
-#EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="За бавни мрежи",Diema
-http://78.108.244.134:8899/diema
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
 http://78.108.244.134:8899/discovery
-#EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="За бавни мрежи",Kino Nova
-http://78.108.244.134:8899/kinonova
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
 http://185.97.73.187:11000/play/nova/index.m3u8
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="За бавни мрежи",STAR Channel

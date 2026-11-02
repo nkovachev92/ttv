@@ -71,8 +71,6 @@ http://78.108.251.7/bTV_HD/index.m3u8
 http://78.108.251.7/Eurosport_HD/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2.bg" tvg-logo="https://epg.cloudns.org/tv/logos/eurosport2.png" group-title="Новини и спорт",Eurosport 2 HD
 http://78.108.251.7/Eurosport2_HD/mono.m3u8
-#EXTINF:-1 tvg-id="news.nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novanews.png" group-title="Новини и спорт",Nova News
-http://78.108.244.134:8899/novanews
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="Новини и спорт",Nova TV
 http://78.108.251.7/Nova_HD/index.m3u8
 #EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="Музикални канали",Balkanika
@@ -89,18 +87,10 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 http://78.108.251.7/Planeta_HD/mono.m3u8
 #EXTINF:-1 tvg-id="thevoice.bg" tvg-logo="https://epg.cloudns.org/tv/logos/thevoice.png" group-title="Музикални канали",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-id="balkanika.bg" tvg-logo="https://epg.cloudns.org/tv/logos/balkanika.png" group-title="За бавни мрежи",Balkanika
-http://87.120.179.187:8000/play/a04s
-#EXTINF:-1 tvg-id="bnt1.bg" tvg-logo="https://epg.cloudns.org/tv/logos/bnt1.png" group-title="За бавни мрежи",BNT 1
-http://87.120.179.187:8000/play/a007
 #EXTINF:-1 tvg-id="btv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/btv.png" group-title="За бавни мрежи",bTV
 http://185.97.73.187:11000/play/btv/index.m3u8
-#EXTINF:-1 tvg-id="diema.bg" tvg-logo="https://epg.cloudns.org/tv/logos/diema.png" group-title="За бавни мрежи",Diema
-http://78.108.244.134:8899/diema
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="За бавни мрежи",Discovery Channel
 http://78.108.244.134:8899/discovery
-#EXTINF:-1 tvg-id="kinonova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/kinonova.png" group-title="За бавни мрежи",Kino Nova
-http://78.108.244.134:8899/kinonova
 #EXTINF:-1 tvg-id="nova.bg" tvg-logo="https://epg.cloudns.org/tv/logos/novatv.png" group-title="За бавни мрежи",Nova TV
 http://185.97.73.187:11000/play/nova/index.m3u8
 #EXTINF:-1 tvg-id="fox.bg" tvg-logo="https://epg.cloudns.org/tv/logos/starchannel.png" group-title="За бавни мрежи",STAR Channel
