@@ -265,10 +265,14 @@ https://jmp2.uk/stvp-GBBD2300001C0
 https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3140.png" group-title="XXX",Babes TV
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="brazzers.eu" tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
-http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2324.png" group-title="XXX",Dorcel TV
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2193.png" group-title="XXX",Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2781.png" group-title="XXX",Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3170.png" group-title="XXX",Extasy HD
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4930.png" group-title="XXX",Leo TV HD
