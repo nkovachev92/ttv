@@ -267,6 +267,8 @@ https://jmp2.uk/stvp-GBBC19000017V
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2021.png" group-title="XXX",Brazzers TV Europe
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3218.png" group-title="XXX",Classic Porn
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2324.png" group-title="XXX",Dorcel TV
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2193.png" group-title="XXX",Erox
