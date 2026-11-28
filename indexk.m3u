@@ -515,6 +515,10 @@ http://78.108.251.7/NickToons/mono.m3u8
 http://78.108.244.134:8899/24Kitchen
 #EXTINF:-1 tvg-id="discoverychannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/discoveryscience.png" group-title="Документални",Discovery Channel
 http://78.108.251.7/Discovery_HD/mono.m3u8
+#EXTINF:-1 tvg-id="natgeo.bg" tvg-logo="https://epg.cloudns.org/tv/logos/natgeo.png" group-title="Документални",National Geographic
+http://78.108.244.134:8899/ngeo
+#EXTINF:-1 tvg-id="natgeowild.bg" tvg-logo="https://epg.cloudns.org/tv/logos/natgeowild.png" group-title="Документални",National Geographic Wild
+http://78.108.244.134:8899/ngw
 #EXTINF:-1 tvg-id="travelchannel.bg" tvg-logo="https://epg.cloudns.org/tv/logos/travelchannel.png" group-title="Документални",Travel Channel
 http://78.108.251.7/Travel_Channel_HD/mono.m3u8
 #EXTINF:-1 tvg-id="traveltv.bg" tvg-logo="https://epg.cloudns.org/tv/logos/travel.png" group-title="Документални",Travel TV
